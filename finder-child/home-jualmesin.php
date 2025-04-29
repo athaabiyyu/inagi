@@ -13,7 +13,10 @@ $MilktechMachines = array_values($MilktechMachines);
 $RetortMachines = array_filter($AllMachines, fn($item) => in_array($item['id'], [1, 24, 25, 26, 27]));
 $RetortMachines = array_values($RetortMachines);
 
+$PackagingMachines = array_filter($AllMachines, fn($item) => in_array($item['id'], [28,29,30]));
+$PackagingMachines = array_values($PackagingMachines);
 // Tambahkan kategori lain kalau dibutuhkan
+
 ?>
 
 
@@ -280,7 +283,7 @@ $RetortMachines = array_values($RetortMachines);
 
                         <!-- Slide 1: Mesin Retort -->
                         <div class="carousel-item relative w-full">
-                            <img src="https://plus.unsplash.com/premium_photo-1682141809453-9014014096d3?q=80&w=2072&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Produsen Mesin Retort - INAGI" class="w-full h-[320px] sm:h-[400px] md:h-[500px] lg:h-[600px] object-cover">
+                            <img src="https://plus.unsplash.com/premium_photo-1682141809453-9014014096d3?q=80&w=2072&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Produsen Mesin Retort - JUAL MESIN" class="w-full h-[320px] sm:h-[400px] md:h-[500px] lg:h-[600px] object-cover">
                             <div class="absolute inset-0 bg-black/40 flex flex-col justify-center px-6 md:px-16">
                                 <h1 class="text-3xl md:text-5xl lg:text-6xl font-bold text-white mb-4">
                                     Produsen Mesin Retort
@@ -293,7 +296,7 @@ $RetortMachines = array_values($RetortMachines);
 
                         <!-- Slide 2: Mesin Pasteurisasi Susu -->
                         <div class="carousel-item relative w-full">
-                            <img src="https://plus.unsplash.com/premium_photo-1682141809453-9014014096d3?q=80&w=2072&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Mesin Pasteurisasi Susu - INAGI" class="w-full h-[320px] sm:h-[400px] md:h-[500px] lg:h-[600px] object-cover">
+                            <img src="https://plus.unsplash.com/premium_photo-1682141809453-9014014096d3?q=80&w=2072&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Mesin Pasteurisasi Susu - JUAL MESIN" class="w-full h-[320px] sm:h-[400px] md:h-[500px] lg:h-[600px] object-cover">
                             <div class="absolute inset-0 bg-black/40 flex flex-col justify-center px-6 md:px-16">
                                 <h1 class="text-3xl md:text-5xl lg:text-6xl font-bold text-white mb-4">
                                     Mesin Pasteurisasi Susu
@@ -306,7 +309,7 @@ $RetortMachines = array_values($RetortMachines);
 
                         <!-- Slide 3: Mesin Spray Dryer -->
                         <div class="carousel-item relative w-full">
-                            <img src="https://plus.unsplash.com/premium_photo-1682141809453-9014014096d3?q=80&w=2072&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Mesin Spray Dryer - INAGI" class="w-full h-[320px] sm:h-[400px] md:h-[500px] lg:h-[600px] object-cover">
+                            <img src="https://plus.unsplash.com/premium_photo-1682141809453-9014014096d3?q=80&w=2072&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Mesin Spray Dryer - JUAL MESIN" class="w-full h-[320px] sm:h-[400px] md:h-[500px] lg:h-[600px] object-cover">
                             <div class="absolute inset-0 bg-black/40 flex flex-col justify-center px-6 md:px-16">
                                 <h1 class="text-3xl md:text-5xl lg:text-6xl font-bold text-white mb-4">
                                     Mesin Spray Dryer
@@ -319,7 +322,7 @@ $RetortMachines = array_values($RetortMachines);
 
                         <!-- Slide 4: Mesin Autoclave -->
                         <div class="carousel-item relative w-full">
-                            <img src="https://plus.unsplash.com/premium_photo-1682141754937-14d42063d709?q=80&w=2072&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Mesin Autoclave - INAGI" class="w-full h-[320px] sm:h-[400px] md:h-[500px] lg:h-[600px] object-cover">
+                            <img src="https://plus.unsplash.com/premium_photo-1682141754937-14d42063d709?q=80&w=2072&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Mesin Autoclave - JUAL MESIN" class="w-full h-[320px] sm:h-[400px] md:h-[500px] lg:h-[600px] object-cover">
                             <div class="absolute inset-0 bg-black/40 flex flex-col justify-center px-6 md:px-16">
                                 <h1 class="text-3xl md:text-5xl lg:text-6xl font-bold text-white mb-4">
                                     Mesin Autoclave
@@ -401,12 +404,41 @@ $RetortMachines = array_values($RetortMachines);
             </div>
         </section>
 
+        <!-- Product Packaging -->
+        <section id="packaging-products" class="py-12 px-4 sm:px-6 lg:px-8 max-w-7xl mx-auto">
+            <div class="mb-10">
+                <h2 class="text-2xl md:text-3xl font-bold mb-2 border-l-4 border-amber-600 pl-3">Packaging Machine</h2>
+                <p class="text-gray-600">Explore our high-performance milk and pasteurization equipment</p>
+            </div>
+
+            <div class="product-carousel relative overflow-hidden">
+                <div class="carousel-container flex transition-transform duration-500 overflow-x-auto">
+                <?php foreach ($PackagingMachines as $product): ?>
+                    <div class="carousel-item px-2 min-w-[250px] max-w-[300px]">
+                    <div class="bg-white rounded-lg shadow-md overflow-hidden hover:shadow-lg transition-shadow duration-300 flex flex-col h-full">
+                        <img src="<?= $product['image'] ?>" alt="<?= $product['name'] ?>" class="w-full h-48 object-cover">
+                        <div class="p-4 flex flex-col flex-1 justify-between">
+                        <div>
+                            <h3 class="font-bold text-lg mb-1 line-clamp-2"><?= $product['name'] ?></h3>
+                            <p class="text-sm text-gray-500 line-clamp-2 mb-2"><?= $product['description'] ?></p>
+                        </div>
+                        <a href="<?= $product['url'] ?>" class="mt-auto w-full border border-gray-900 text-gray-900 py-2 px-4 rounded hover:bg-amber-600 hover:border-amber-600 hover:text-white transition-colors duration-300 block text-center">
+                            Details
+                        </a>
+                        </div>
+                    </div>
+                    </div>
+                <?php endforeach; ?>
+                </div>
+            </div>
+        </section>
+
         <!-- Promo Banner Section -->
         <section class="py-12 bg-gray-50">
             <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
                 <div class="flex flex-col md:flex-row gap-6">
                     <div class="flex-1 relative overflow-hidden rounded-lg shadow-md">
-                        <img src="https://inagi.co.id/wp-content/uploads/2025/02/Picture2.png" alt="New Equipment" class="w-full h-64 object-cover">
+                        <img src="https://JUAL MESIN.co.id/wp-content/uploads/2025/02/Picture2.png" alt="New Equipment" class="w-full h-64 object-cover">
                         <div class="absolute inset-0 bg-gradient-to-t from-black/70 to-transparent flex flex-col justify-end p-6">
                             <h3 class="text-white text-xl font-bold mb-2">New Equipment</h3>
                             <p class="text-white/90 mb-4">Check out our latest industrial machines</p>
@@ -415,7 +447,7 @@ $RetortMachines = array_values($RetortMachines);
                     </div>
                     
                     <div class="flex-1 relative overflow-hidden rounded-lg shadow-md">
-                        <img src="https://inagi.co.id/wp-content/uploads/2025/02/Picture2.png" alt="Special Offers" class="w-full h-64 object-cover">
+                        <img src="https://JUAL MESIN.co.id/wp-content/uploads/2025/02/Picture2.png" alt="Special Offers" class="w-full h-64 object-cover">
                         <div class="absolute inset-0 bg-gradient-to-t from-black/70 to-transparent flex flex-col justify-end p-6">
                             <h3 class="text-white text-xl font-bold mb-2">Special Offers</h3>
                             <p class="text-white/90 mb-4">Limited time discounts on premium products</p>
@@ -445,7 +477,7 @@ $RetortMachines = array_values($RetortMachines);
 				  <div class="btn-group">
 					<!-- Chat Icon Button -->
 					<a
-					  href="https://wa.me/6281555499975?text=Halo%20INAGI,%20saya%20ingin%20konsultasi%20tentang%20produk:%20<?= urlencode($product['name']) ?>"
+					  href="https://wa.me/6281555499975?text=Halo%20JUAL MESIN,%20saya%20ingin%20konsultasi%20tentang%20produk:%20<?= urlencode($product['name']) ?>"
 					  target="_blank"
 					  rel="noopener noreferrer"
 					  class="btn-chat-icon"
@@ -481,23 +513,23 @@ $RetortMachines = array_values($RetortMachines);
                     Manufacturing innovative and automatic machine
                 </p>
                 <p class="text-gray-700 mb-4">
-                    INAGI adalah perusahaan teknologi manufaktur mesin yang melayani kebutuhan UMKM hingga industri menengah. Kami fokus pada pengembangan mesin proses termal di bidang makanan, minuman, dan agroindustri.
+                    JUAL MESIN adalah perusahaan teknologi manufaktur mesin yang melayani kebutuhan UMKM hingga industri menengah. Kami fokus pada pengembangan mesin proses termal di bidang makanan, minuman, dan agroindustri.
                 </p>
                 <p class="text-gray-700 mb-4">
                     Kami juga menerima pesanan mesin secara <strong>custom</strong> sesuai dengan kebutuhan dan budget pelanggan. Didukung tim teknis berpengalaman, kami menjamin kualitas dan layanan purna jual terbaik.
                 </p>
                 <p class="text-gray-700 mb-6">
-                    INAGI terbuka untuk kolaborasi bersama instansi pemerintah, BUMN, maupun swasta, serta kemitraan dalam proses perizinan dan ekspor-impor.
+                    JUAL MESIN terbuka untuk kolaborasi bersama instansi pemerintah, BUMN, maupun swasta, serta kemitraan dalam proses perizinan dan ekspor-impor.
                 </p>
                 <a href="#contact" class="bg-gray-900 text-white px-6 py-3 rounded inline-block hover:bg-amber-600 transition-colors duration-300">Hubungi Kami</a>
                 </div>
                 <div class="md:w-1/2">
-                <img src="https://lh3.googleusercontent.com/p/AF1QipODV0fB45OUm7ygEw9f_QhEY3S205lo1TRoEMN-=s680-w680-h510" alt="About INAGI" class="rounded-lg shadow-lg w-full max-w-md mx-auto">
+                <img src="https://lh3.googleusercontent.com/p/AF1QipODV0fB45OUm7ygEw9f_QhEY3S205lo1TRoEMN-=s680-w680-h510" alt="About JUAL MESIN" class="rounded-lg shadow-lg w-full max-w-md mx-auto">
                 </div>
             </div>
         </section>
         
-        <!-- Kenapa Memilih INAGI -->
+        <!-- Kenapa Memilih JUAL MESIN -->
         <section class="py-16 bg-gray-50">
             <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
                 <h2 class="text-2xl md:text-3xl font-bold mb-12 text-center">Kenapa Memilih Jual Mesin?</h2>
@@ -670,7 +702,7 @@ $RetortMachines = array_values($RetortMachines);
                         </div>
                         <div>
                         <h3 class="font-bold text-lg mb-1">Email</h3>
-                        <a href="mailto:inagiofficial@gmail.com" class="text-gray-300 hover:text-white">inagiofficial@gmail.com</a>
+                        <a href="mailto:JUAL MESINofficial@gmail.com" class="text-gray-300 hover:text-white">JUAL MESINofficial@gmail.com</a>
                         </div>
                     </div>
                     </div>
@@ -719,23 +751,23 @@ $RetortMachines = array_values($RetortMachines);
   <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
     <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 mb-8">
 
-      <!-- Tentang INAGI -->
+      <!-- Tentang JUAL MESIN -->
       <div>
-        <h3 class="text-xl font-bold mb-4">INAGI (Inovasi Anak Negeri)</h3>
+        <h3 class="text-xl font-bold mb-4">JUAL MESIN (Inovasi Anak Negeri)</h3>
         <p class="text-gray-400 mb-6">
           Jual adalah perusahaan manufaktur mesin inovatif untuk UMKM dan industri menengah. Kami hadir untuk mendukung pertumbuhan industri lokal menuju pasar global.
         </p>
         <div class="flex space-x-4">
-          <a href="https://www.instagram.com/inagiofficial" target="_blank" class="bg-gray-800 p-2 rounded-full hover:bg-amber-600 transition-colors">
+          <a href="https://www.instagram.com/JUAL MESINofficial" target="_blank" class="bg-gray-800 p-2 rounded-full hover:bg-amber-600 transition-colors">
             <i data-lucide="instagram" class="w-5 h-5"></i>
           </a>
-          <a href="https://www.tiktok.com/@inagiofficial" target="_blank" class="bg-gray-800 p-2 rounded-full hover:bg-amber-600 transition-colors">
+          <a href="https://www.tiktok.com/@JUAL MESINofficial" target="_blank" class="bg-gray-800 p-2 rounded-full hover:bg-amber-600 transition-colors">
             <i data-lucide="video" class="w-5 h-5"></i>
           </a>
-          <a href="https://www.youtube.com/c/inagiofficial" target="_blank" class="bg-gray-800 p-2 rounded-full hover:bg-amber-600 transition-colors">
+          <a href="https://www.youtube.com/c/JUAL MESINofficial" target="_blank" class="bg-gray-800 p-2 rounded-full hover:bg-amber-600 transition-colors">
             <i data-lucide="youtube" class="w-5 h-5"></i>
           </a>
-          <a href="https://id.linkedin.com/company/inagiofficial" target="_blank" class="bg-gray-800 p-2 rounded-full hover:bg-amber-600 transition-colors">
+          <a href="https://id.linkedin.com/company/JUAL MESINofficial" target="_blank" class="bg-gray-800 p-2 rounded-full hover:bg-amber-600 transition-colors">
             <i data-lucide="linkedin" class="w-5 h-5"></i>
           </a>
         </div>
@@ -777,13 +809,13 @@ $RetortMachines = array_values($RetortMachines);
           </li>
           <li class="flex items-center">
             <i data-lucide="phone" class="w-5 h-5 mr-3 text-amber-500 flex-shrink-0"></i>
-            <a href="https://wa.me/6281555499975?text=Halo%20INAGI%2C%20saya%20ingin%20konsultasi%20melalui%20website%20%3A%20https%3A%2F%2Finagi.co.id" target="_blank" class="text-gray-400 hover:text-white">
+            <a href="https://wa.me/6281555499975?text=Halo%20JUAL MESIN%2C%20saya%20ingin%20konsultasi%20melalui%20website%20%3A%20https%3A%2F%2FJUAL MESIN.co.id" target="_blank" class="text-gray-400 hover:text-white">
               +62 815-5549-9975
             </a>
           </li>
           <li class="flex items-center">
             <i data-lucide="mail" class="w-5 h-5 mr-3 text-amber-500 flex-shrink-0"></i>
-            <a href="mailto:inagiofficial@gmail.com" class="text-gray-400 hover:text-white">inagiofficial@gmail.com</a>
+            <a href="mailto:JUAL MESINofficial@gmail.com" class="text-gray-400 hover:text-white">JUAL MESINofficial@gmail.com</a>
           </li>
           <li class="flex items-center">
             <i data-lucide="clock" class="w-5 h-5 mr-3 text-amber-500 flex-shrink-0"></i>
@@ -796,7 +828,7 @@ $RetortMachines = array_values($RetortMachines);
     <!-- Bottom -->
     <div class="border-t border-gray-800 pt-6">
       <div class="flex flex-col md:flex-row justify-between items-center">
-        <p class="text-gray-400 text-sm mb-4 md:mb-0">© 2025 INAGI. All rights reserved.</p>
+        <p class="text-gray-400 text-sm mb-4 md:mb-0">© 2025 JUAL MESIN. All rights reserved.</p>
         <div class="flex space-x-6">
           <a href="#" class="text-gray-400 text-sm hover:text-white transition-colors">Kebijakan Privasi</a>
           <a href="#" class="text-gray-400 text-sm hover:text-white transition-colors">Syarat & Ketentuan</a>
@@ -822,14 +854,14 @@ $RetortMachines = array_values($RetortMachines);
         </a>
 
         <!-- Chat Admin (highlight) -->
-        <a href="https://wa.me/6281555499975?text=Halo%20Inagi%2C%20saya%20ingin%20konsultasi" 
+        <a href="https://wa.me/6281555499975?text=Halo%20JUAL MESIN%2C%20saya%20ingin%20konsultasi" 
         class="flex flex-col items-center px-3 py-1 text-white bg-amber-600 rounded-full shadow-lg animate-pulse transition hover:bg-amber-700">
             <i data-lucide="phone-call" class="w-5 h-5 mb-1"></i>
             <span class="text-xs font-medium">Chat Admin</span>
         </a>
 
         <!-- Video (YouTube) -->
-        <a href="https://www.youtube.com/c/inagiofficial" target="_blank" class="flex flex-col items-center px-3 py-1 text-gray-600 hover:text-amber-600 transition-colors">
+        <a href="https://www.youtube.com/c/JUAL MESINofficial" target="_blank" class="flex flex-col items-center px-3 py-1 text-gray-600 hover:text-amber-600 transition-colors">
             <i data-lucide="video" class="w-5 h-5 mb-1"></i>
             <span class="text-xs font-medium">Video</span>
         </a>
@@ -1063,7 +1095,7 @@ $RetortMachines = array_values($RetortMachines);
         document.addEventListener('DOMContentLoaded', function () {
             const currentURL = window.location.href;
             const whatsappNumber = '6281555499975'; // 🔁 Ganti dengan nomor WA kamu
-            const message = `Halo Inagi, saya ingin konsultasi%0A Sumber: ${encodeURIComponent(currentURL)}`;
+            const message = `Halo JUAL MESIN, saya ingin konsultasi%0A Sumber: ${encodeURIComponent(currentURL)}`;
             const whatsappLink = `https://api.whatsapp.com/send?phone=${whatsappNumber}&text=${message}`;
 
             const desktopBtn = document.getElementById('whatsapp-button');
@@ -1077,7 +1109,7 @@ $RetortMachines = array_values($RetortMachines);
     <script>
         document.addEventListener('DOMContentLoaded', async function () {
             const carouselTrack = document.querySelector("#post-carousel");
-            const apiURL = "https://inagi.co.id/wp-json/wp/v2/posts?per_page=10&_embed";
+            const apiURL = "https://JUAL MESIN.co.id/wp-json/wp/v2/posts?per_page=10&_embed";
 
             try {
                 const response = await fetch(apiURL);
@@ -1163,7 +1195,7 @@ $RetortMachines = array_values($RetortMachines);
                 const siteURL = window.location.href;
 
                 const message = `
-            Halo INAGI, saya ingin minta penawaran:
+            Halo JUAL MESIN, saya ingin minta penawaran:
 
             *Nama*: ${name}
             *Email*: ${email}

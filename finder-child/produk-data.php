@@ -243,6 +243,46 @@ $AllMachines = [
         "rating" => 4.5,
         "url" => "#"
       ],
+      # Packaging Machines - Start
+      [
+        "id" => 28,
+        "name" => "Mini Retort steam overpresure kontrol suhu digital timer dan alarm",
+        "description" => "Keunggulan Produk",
+        "image" => "https://inagi.co.id/wp-content/uploads/2025/02/inagi.co_.id-retort-2.jpg",
+        "price" => "",
+        "rating" => 4.5,
+        "url" => "#"
+      ],
+      [
+        "id" => 29,
+        "name" => "Mini Retort steam overpresure kontrol suhu digital timer dan alarm",
+        "description" => "Keunggulan Produk",
+        "image" => "https://inagi.co.id/wp-content/uploads/2025/02/inagi.co_.id-retort-1.jpg",
+        "price" => "",
+        "rating" => 4.5,
+        "url" => "#"
+      ],
+      [
+        "id" => 30,
+        "name" => "Mini Retort steam overpresure kontrol suhu digital timer dan alarm",
+        "description" => "Keunggulan Produk",
+        "image" => "https://inagi.co.id/wp-content/uploads/2025/02/inagi.co_.id-retort-2.jpg",
+        "price" => "",
+        "rating" => 4.5,
+        "url" => "#"
+      ],
+      [
+        "id" => 30,
+        "name" => "Mini Retort steam overpresure kontrol suhu digital timer dan alarm",
+        "description" => "Keunggulan Produk",
+        "image" => "https://inagi.co.id/wp-content/uploads/2025/02/inagi.co_.id-retort-1.jpg",
+        "price" => "",
+        "rating" => 4.5,
+        "url" => "#"
+      ],
+      # Packaging Machines - End
+
+
   // ...
   // Lanjutkan dengan produk ke-4 sampai 27 sesuai yang kamu punya
   // Pastikan tidak ada `include` apapun di file ini
