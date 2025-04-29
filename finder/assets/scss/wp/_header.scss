@@ -1,0 +1,30 @@
+.admin-bar {
+    header.fixed-top {
+        top: 46px;
+
+        &.navbar-stuck {
+            @media screen and (max-width: 599px) {
+                top: 0;
+            }
+        }
+    
+
+        @media screen and (min-width: 783px) {
+            top: 32px;
+        }
+    }
+}
+
+.dropdown-divider > div.dropdown-divider {
+    display: none;
+}
+
+header#masthead:not(.fixed-top) {
+    z-index: 1;
+}
+
+.navbar-brand, .account-toogle {
+    img {
+        max-width: unset !important;
+    }
+}

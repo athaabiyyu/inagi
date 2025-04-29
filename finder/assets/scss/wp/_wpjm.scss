@@ -1,0 +1,120 @@
+.job_listings {
+    .load_more_jobs {
+        display: block;
+        text-align: center;
+    }
+
+    .job_filters {
+        .job_types {
+            padding-left: 0;
+            list-style: none;
+            flex: 0 0 auto;
+            width: 100% !important;
+            margin-bottom: 0;
+            --bs-gutter-x: 1.5rem;
+            --bs-gutter-y: 0;
+            display: flex;
+            flex-wrap: wrap;
+            margin-top: calc(var(--bs-gutter-y) * -1);
+            margin-right: calc(var(--bs-gutter-x) / -2);
+            margin-left: calc(var(--bs-gutter-x) / -2);
+            padding-left: 12px;
+
+            li {
+                flex: 0 0 auto;
+                width: auto !important;
+            }
+
+            input[type="checkbox"] {
+                width: $form-check-input-width;
+                height: $form-check-input-width;
+                margin-top: ($line-height-base - $form-check-input-width) / 2; // line-height minus check height
+                vertical-align: top;
+                background-color: $form-check-input-bg;
+                background-repeat: no-repeat;
+                background-position: center;
+                background-size: contain;
+                border: $form-check-input-border;
+                appearance: none;
+                color-adjust: exact; // Keep themed appearance for print
+                @include transition($form-check-transition);
+
+                &[type="checkbox"] {
+                    @include border-radius($form-check-input-border-radius);
+                }
+
+                &:active {
+                    filter: $form-check-input-active-filter;
+                }
+
+                &:focus {
+                    border-color: $form-check-input-focus-border;
+                    outline: 0;
+                    box-shadow: $form-check-input-focus-box-shadow;
+                }
+
+                &:checked {
+                    background-color: $form-check-input-checked-bg-color;
+                    border-color: $form-check-input-checked-border-color;
+
+                    &[type="checkbox"] {
+                        @if $enable-gradients {
+                            background-image: escape-svg($form-check-input-checked-bg-image), var(--#{$variable-prefix}gradient);
+                        } @else {
+                            background-image: escape-svg($form-check-input-checked-bg-image);
+                        }
+                    }
+
+                    &[type="radio"] {
+                        @if $enable-gradients {
+                            background-image: escape-svg($form-check-radio-checked-bg-image), var(--#{$variable-prefix}gradient);
+                        } @else {
+                            background-image: escape-svg($form-check-radio-checked-bg-image);
+                        }
+                    }
+                }
+
+                &[type="checkbox"]:indeterminate {
+                    background-color: $form-check-input-indeterminate-bg-color;
+                    border-color: $form-check-input-indeterminate-border-color;
+
+                    @if $enable-gradients {
+                        background-image: escape-svg($form-check-input-indeterminate-bg-image), var(--#{$variable-prefix}gradient);
+                    } @else {
+                        background-image: escape-svg($form-check-input-indeterminate-bg-image);
+                    }
+                }
+
+                &:disabled {
+                    pointer-events: none;
+                    filter: none;
+                    opacity: $form-check-input-disabled-opacity;
+                }
+
+                // Use disabled attribute in addition of :disabled pseudo-class
+                // See: https://github.com/twbs/bootstrap/issues/28247
+                &[disabled],
+                &:disabled {
+                    ~ .form-check-label {
+                        opacity: $form-check-label-disabled-opacity;
+                    }
+                }
+            }
+        }
+
+        .search_categories + .job_types {
+            @include media-breakpoint-up(md) {
+                flex: 0 0 auto;
+                width: 50% !important;
+            }
+        }
+
+        .showing_jobs {
+            flex: 0 0 auto;
+            width: 100% !important;
+            margin-top: 16px;
+            text-align: center;
+            color: #fff;
+        }
+    }
+}

@@ -1,0 +1,107 @@
+* {
+	border: 0 solid #efecf3;
+	-ms-word-wrap: break-word;
+	word-wrap: break-word;
+}
+
+.border-left-4 {
+	border-left-width: 4px !important;
+}
+
+.divide-x-gap-\[16px\] > :not([hidden]) ~ :not([hidden]) {
+	--tw-divide-x-reverse: 0;
+	--tw-space-x-reverse: 0;
+	border-right-width: calc(1px * var(--tw-divide-x-reverse));
+	border-left-width: calc(1px * calc(1 - var(--tw-divide-x-reverse)));
+	margin-right: calc(16px * var(--tw-space-x-reverse));
+	margin-left: calc(16px * calc(1 - var(--tw-space-x-reverse)));
+	padding-right: calc(16px * var(--tw-space-x-reverse));
+	padding-left: calc(16px * calc(1 - var(--tw-space-x-reverse)));
+}
+
+.space-x-2 > * + * {
+	margin-left: 0.5rem;
+}
+
+.space-y-5 > * + * {
+	margin-top: 1.25rem;
+}
+
+.space-y-1 > * + * {
+	margin-top: 0.25rem;
+}
+
+.space-y-6 > * + * {
+	margin-top: 1.5rem;
+}
+
+.mb-0-last-child > *:last-child {
+	margin-bottom: 0 !important;
+}
+
+.pb-0-last-child > *:last-child {
+	padding-bottom: 0 !important;
+}
+
+.h-full {
+	height: 100%
+}
+
+.w-full {
+	width: 100%
+}
+
+.object-cover {
+	-o-object-fit: cover;
+	object-fit: cover
+}
+
+.object-center {
+	-o-object-position: center;
+	object-position: center
+}
+
+.line-clamp-2 {
+	overflow: hidden;
+	display: -webkit-box;
+	-webkit-box-orient: vertical;
+	-webkit-line-clamp: 2;
+}
+
+.line-clamp-3 {
+	overflow: hidden;
+	display: -webkit-box;
+	-webkit-box-orient: vertical;
+	-webkit-line-clamp: 3;
+}
+
+.mt-\[-29px\] {
+	margin-top: -29px;
+}
+
+.mb-\[1\.25rem\] {
+	margin-bottom: 1.25rem;
+}
+
+.mb-\[0\.75rem\] {
+	margin-bottom: 0.75rem;
+}
+
+.z-10 {
+	z-index: 10;
+}
+
+.row-margin {
+	margin: 0 -12px 0 -12px !important;
+}
+
+.h-100 {
+	height: 100% !important;
+}
+
+.ewc-h-100 {
+	height: 100%;
+	.elementor-widget-container {
+		height: 100%;
+	}
+}

@@ -1,0 +1,58 @@
+.wpforms-newsletter .wpforms-form {
+    align-items: center;
+    display: flex;
+    width: 100%;
+
+    .wpforms-field-container {
+        width: 100%;
+
+        .wpforms-field {
+            display: flex;
+            align-items: center;
+            padding: 0;
+        }
+
+        .form-control {
+            padding: 0px 12px;
+            font-family: "Noto Sans", sans-serif;
+            max-width: 100%;
+            background-color: transparent;
+            min-height: 40px;
+
+            & + label,
+            & ~ label {
+                position: absolute;
+                bottom: -32px;
+                font-family: "Noto Sans", sans-serif;
+            }
+        }
+    }
+}
+
+.wpforms-newsletter.wpforms-container {
+    padding: 0.5rem 0.5rem 0.5rem 22px !important;
+
+    .wpforms-submit-container {
+        padding: 0 !important;
+    }
+}
+
+.footer .wpforms-newsletter.wpforms-container {
+    padding: 0.5rem 0.5rem 0.5rem 16px !important;
+
+    .form-control {
+        min-height: 34px;
+    }
+}
+
+.wpforms-confirmation-container.wpforms-confirmation-scroll {
+    p {
+        margin-bottom: 0;
+        font-size: 14px;
+        color: #07c98b;
+    }
+}
+
+.wpforms-newsletter.wpforms-container .wpforms-field input.wpforms-error {
+    border-width: 0 !important;
+}

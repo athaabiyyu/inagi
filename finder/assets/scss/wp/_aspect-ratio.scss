@@ -1,0 +1,97 @@
+.aspect-ratio > * {
+	position: absolute;
+	height: 100%;
+	width: 100%;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0
+}
+
+.aspect-w-10 {
+	position: relative;
+	padding-bottom: calc(var(--tw-aspect-h) / var(--tw-aspect-w) * 100%);
+	--tw-aspect-w: 10
+}
+
+.aspect-w-53 {
+	position: relative;
+	padding-bottom: calc(var(--tw-aspect-h) / var(--tw-aspect-w) * 100%);
+	--tw-aspect-w: 53
+}
+
+.aspect-w-54 {
+	position: relative;
+	padding-bottom: calc(var(--tw-aspect-h) / var(--tw-aspect-w) * 100%);
+	--tw-aspect-w: 54
+}
+
+.aspect-w-74 {
+	position: relative;
+	padding-bottom: calc(var(--tw-aspect-h) / var(--tw-aspect-w) * 100%);
+	--tw-aspect-w: 74;
+}
+
+.aspect-w-104 {
+	position: relative;
+	padding-bottom: calc(var(--tw-aspect-h) / var(--tw-aspect-w) * 100%);
+	--tw-aspect-w: 104;
+}
+
+.aspect-w-107 {
+	position: relative;
+	padding-bottom: calc(var(--tw-aspect-h) / var(--tw-aspect-w) * 100%);
+	--tw-aspect-w: 107;
+}
+
+.aspect-w-167 {
+	position: relative;
+	padding-bottom: calc(var(--tw-aspect-h) / var(--tw-aspect-w) * 100%);
+	--tw-aspect-w: 167;
+}
+
+.aspect-w-219 {
+	position: relative;
+	padding-bottom: calc(var(--tw-aspect-h) / var(--tw-aspect-w) * 100%);
+	--tw-aspect-w: 219;
+}
+
+.aspect-h-6 {
+	--tw-aspect-h: 6;
+}
+
+.aspect-h-7 {
+	--tw-aspect-h: 7;
+}
+
+.aspect-h-25 {
+	--tw-aspect-h: 25;
+}
+
+.aspect-h-49 {
+	--tw-aspect-h: 49;
+}
+
+.aspect-h-50 {
+	--tw-aspect-h: 50;
+}
+
+.aspect-h-53 {
+	--tw-aspect-h: 53;
+}
+
+.aspect-h-100 {
+	--tw-aspect-h: 100;
+}
+
+.aspect-h-101 {
+	--tw-aspect-h: 101;
+}
+
+.aspect-h-112 {
+	--tw-aspect-h: 112;
+}
+
+.aspect-h-142 {
+	--tw-aspect-h: 142;
+}

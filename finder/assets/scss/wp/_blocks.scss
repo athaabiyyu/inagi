@@ -1,0 +1,25 @@
+.wp-block-cover:not([class*=background-color]) .wp-block-cover__inner-container, .wp-block-cover:not([class*=background-color]) .wp-block-cover-image-text, .wp-block-cover:not([class*=background-color]) .wp-block-cover-text, .wp-block-cover-image:not([class*=background-color]) .wp-block-cover__inner-container, .wp-block-cover-image:not([class*=background-color]) .wp-block-cover-image-text, .wp-block-cover-image:not([class*=background-color]) .wp-block-cover-text {
+	color: #fff;
+}
+
+.wp-block-cover strong {
+    color: #fff;
+}
+
+.wp-block-pullquote blockquote{
+	border-left: none;
+}
+
+.prose {
+	.gallery {
+		.gallery-item {
+			&::before, &::after {
+				content: none;
+			}
+		}
+	}
+}
+
+.wp-block-separator.is-style-dots {
+    color: #c6c7c9;
+}

@@ -1,0 +1,35 @@
+.has-stretched-link {
+    & > a:after {
+        position: absolute;
+        top: 0;
+        right: 0;
+        bottom: 0;
+        left: 0;
+        z-index: 1;
+        content: "";
+    }
+}
+
+.has-text-decoration-none {
+    & > a {
+        text-decoration: none;
+    }
+}
+
+.has-hover-primary {
+    & > a:hover {
+        &,
+        span {
+            color: $primary !important;
+            transition: color .25s ease-in-out,background-color .25s ease-in-out,box-shadow .25s ease-in-out,border-color .25s ease-in-out;
+        }
+    }
+}
+
+.entry-content {
+    @include clearfix();
+}
+
+.page-links {
+    clear: both;
+}

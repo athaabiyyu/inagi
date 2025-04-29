@@ -1,0 +1,64 @@
+.wp-caption {
+    padding: 16px 0;
+}
+
+.wp-caption-text {
+    color: $text-muted !important;
+    @include font-size($small-font-size);
+    font-weight: $font-weight-normal;
+    margin-top: 8px;
+    text-align: center !important;
+}
+
+.screen-reader-text {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    white-space: nowrap;
+    border: 0;
+}
+
+.gallery-caption {
+    margin-top: 1rem;
+    font-size: 14px;
+    text-align: center;
+}
+
+.bypostauthor {/* This is for WP */}
+
+.alignright {
+    float: right;
+    margin-left: 30px;
+}
+
+.alignleft {
+    float: left;
+    margin-right: 30px;
+}
+
+.aligncenter {
+    clear: both;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+}
+
+.img-rounded-enabled img {
+    border-radius: 0.75rem;
+}
+
+.prose figure img,
+.prose p>img:only-child {
+    margin-bottom: 0;
+    margin-top: 0;
+}
+
+.prose p>img.alignleft:only-child,
+.prose p>img.alignright:only-child {
+    margin-bottom: 1.25em;
+    margin-top: 0;
+}

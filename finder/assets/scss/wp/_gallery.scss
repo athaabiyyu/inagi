@@ -1,0 +1,7 @@
+.prose {
+	.gallery-item {
+		&::before {
+			content: none;
+		}
+	}
+}

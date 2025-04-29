@@ -1,0 +1,4070 @@
+# <!=Copyright (C) 2025 MadrasThemes
+# This file is distributed under the GNU General Public License v3 or later.=!>
+msgid ""
+msgstr ""
+"Project-Id-Version: Finder 1.0.10\n"
+"Report-Msgid-Bugs-To: https://madrasthemes.freshdesk.com/\n"
+"POT-Creation-Date: 2025-01-25 09:12:43+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2025-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Finder POT <support@madrasthemes.freshdesk.com>\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+
+#: inc/hivepress/class-finder-hivepress-customizer.php:83
+#: inc/hivepress/class-finder-hivepress-customizer.php:586
+msgid "1"
+msgstr ""
+
+#: inc/hivepress/class-finder-hivepress-customizer.php:84
+#: inc/hivepress/class-finder-hivepress-customizer.php:587
+msgid "2"
+msgstr ""
+
+#: inc/hivepress/class-finder-hivepress-customizer.php:85
+#: inc/hivepress/class-finder-hivepress-customizer.php:588
+msgid "3"
+msgstr ""
+
+#: inc/hivepress/class-finder-hivepress-customizer.php:86
+#: inc/hivepress/class-finder-hivepress-customizer.php:589
+#: inc/wpjm/template-functions/single-job-listing.php:341
+msgid "4"
+msgstr ""
+
+#: inc/hivepress/class-finder-hivepress-customizer.php:87
+#: inc/hivepress/class-finder-hivepress-customizer.php:590
+msgid "5"
+msgstr ""
+
+#: inc/hivepress/class-finder-hivepress-customizer.php:88
+#: inc/hivepress/class-finder-hivepress-customizer.php:591
+msgid "6"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:1697
+msgid "404"
+msgstr ""
+
+#: comments.php:37
+msgid "Post Comments"
+msgstr ""
+
+#: comments.php:63
+msgid "Comment Navigation Below"
+msgstr ""
+
+#: comments.php:64 inc/core/class-theme-strings.php:57
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:66
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:67
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:75 inc/core/class-theme-strings.php:56
+msgid "Comments are closed."
+msgstr ""
+
+#: content-none.php:15
+msgid "Get started here"
+msgstr ""
+
+#: content-none.php:17
+#. translators: 1: URL
+msgid "Ready to publish your first post? %s."
+msgstr ""
+
+#: content-none.php:20 inc/core/class-theme-strings.php:39
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: content-none.php:22 inc/core/class-theme-strings.php:78
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: content-none.php:33 inc/core/class-theme-strings.php:38
+msgid "Nothing Found"
+msgstr ""
+
+#: hivepress/listing/submit/listing-submit-details-page.php:102
+msgid "Change Category"
+msgstr ""
+
+#: hivepress/listing/submit/listing-submit-details-page.php:625
+msgid "Save and continue"
+msgstr ""
+
+#: hivepress/user/login/user-login-link.php:34
+#: inc/template-functions/header.php:604 inc/template-functions/header.php:755
+msgid "Sign in"
+msgstr ""
+
+#: hivepress/user/login/user-login-page.php:26
+#: hivepress/user/login/user-login-page.php:51
+#: hivepress/user/login/user-login-page.php:74
+#: inc/template-functions/header.php:611 inc/template-functions/header.php:702
+#: inc/template-functions/header.php:798
+msgid "Enter your email"
+msgstr ""
+
+#: hivepress/user/login/user-login-page.php:32
+#: hivepress/user/login/user-login-page.php:57
+#: inc/template-functions/header.php:617
+msgid "Enter password"
+msgstr ""
+
+#: hivepress/user/login/user-login-page.php:67
+msgid "Send email"
+msgstr ""
+
+#: hivepress/user/login/user-login-page.php:100
+msgid "Sign In"
+msgstr ""
+
+#: hivepress/user/login/user-login-page.php:103
+msgid "Don't have an account yet?"
+msgstr ""
+
+#: hivepress/user/login/user-login-page.php:103
+#: hivepress/user/login/user-login-page.php:114
+msgid "Register"
+msgstr ""
+
+#: hivepress/user/login/user-login-page.php:105
+#: inc/template-functions/header.php:659
+msgid "Forgot password?"
+msgstr ""
+
+#: hivepress/user/login/user-login-page.php:131
+#: inc/customizer/class-finder-customizer.php:955
+#: inc/template-functions/header.php:791
+msgid "Reset Password"
+msgstr ""
+
+#: hivepress/user/my-account/listing-edit.php:40
+#: hivepress/user/my-account/listing-edit.php:78
+#: inc/hivepress/template-functions/listings.php:514
+msgid "Listings"
+msgstr ""
+
+#: hivepress/user/my-account/listing-favourite.php:40
+#: hivepress/user/my-account/listing-favourite.php:74
+msgid "Favourites"
+msgstr ""
+
+#: hivepress/user/my-account/listing-form.php:122
+msgid "Edit listing"
+msgstr ""
+
+#: hivepress/user/my-account/listing-form.php:149
+msgid "Edit details"
+msgstr ""
+
+#: hivepress/user/my-account/listing-form.php:151
+#: hivepress/user/my-account/settings.php:121
+#: hivepress/user/my-account/settings.php:401
+msgid "Changes have been saved."
+msgstr ""
+
+#: hivepress/user/my-account/listing-form.php:674
+#: hivepress/user/my-account/settings.php:270
+#: hivepress/user/my-account/settings.php:631
+msgid "Save Changes"
+msgstr ""
+
+#: hivepress/user/my-account/listing-packages.php:36
+#: hivepress/user/my-account/listing-packages.php:54
+msgid "Packages"
+msgstr ""
+
+#: hivepress/user/my-account/messages-thread.php:33
+#: hivepress/user/my-account/messages-thread.php:112
+msgid "Messages"
+msgstr ""
+
+#: hivepress/user/my-account/messages.php:42
+#: hivepress/user/my-account/messages.php:109
+#. translators: 1: user name
+msgid "Messages from %s"
+msgstr ""
+
+#: hivepress/user/my-account/settings.php:50
+#: hivepress/user/my-account/settings.php:301
+msgid "Enter your First Name"
+msgstr ""
+
+#: hivepress/user/my-account/settings.php:53
+#: hivepress/user/my-account/settings.php:304
+msgid "Enter your Last Name"
+msgstr ""
+
+#: hivepress/user/my-account/settings.php:56
+#: hivepress/user/my-account/settings.php:307
+msgid "Short bio"
+msgstr ""
+
+#: hivepress/user/my-account/settings.php:57
+#: hivepress/user/my-account/settings.php:308
+msgid "Enter your Bio"
+msgstr ""
+
+#: hivepress/user/my-account/settings.php:63
+#: hivepress/user/my-account/settings.php:314
+msgid "Enter your Email"
+msgstr ""
+
+#: hivepress/user/my-account/settings.php:67
+#: hivepress/user/my-account/settings.php:318
+msgid "Enter your Password"
+msgstr ""
+
+#: hivepress/user/my-account/settings.php:71
+#: hivepress/user/my-account/settings.php:322
+msgid "Enter your Current Password"
+msgstr ""
+
+#: hivepress/user/my-account/settings.php:130
+#: hivepress/user/my-account/settings.php:294
+msgid "Personal Info"
+msgstr ""
+
+#: hivepress/user/my-account/settings.php:148
+#: hivepress/user/my-account/settings.php:158
+#: hivepress/user/my-account/settings.php:171
+#: hivepress/user/my-account/settings.php:181
+#: hivepress/user/my-account/settings.php:193
+#: hivepress/user/my-account/settings.php:203
+#: hivepress/user/my-account/settings.php:215
+#: hivepress/user/my-account/settings.php:225
+#: hivepress/user/my-account/settings.php:241
+#: hivepress/user/my-account/settings.php:261
+#: hivepress/user/my-account/settings.php:466
+#: hivepress/user/my-account/settings.php:476
+#: hivepress/user/my-account/settings.php:487
+#: hivepress/user/my-account/settings.php:501
+#: hivepress/user/my-account/settings.php:511
+#: hivepress/user/my-account/settings.php:522
+#: hivepress/user/my-account/settings.php:535
+#: hivepress/user/my-account/settings.php:545
+#: hivepress/user/my-account/settings.php:559
+#: hivepress/user/my-account/settings.php:569
+#: hivepress/user/my-account/settings.php:580
+#: hivepress/user/my-account/settings.php:596
+#: hivepress/user/my-account/settings.php:616
+msgid "Not specified"
+msgstr ""
+
+#: hivepress/user/my-account/settings.php:242
+#: hivepress/user/my-account/settings.php:262
+#: hivepress/user/my-account/settings.php:597
+#: hivepress/user/my-account/settings.php:617
+msgid "Show/hide password"
+msgstr ""
+
+#: hivepress/user/my-account/settings.php:273
+#: hivepress/user/my-account/settings.php:634
+#: inc/hivepress/template-functions/myaccount.php:214
+msgid "Delete Account"
+msgstr ""
+
+#: hivepress/user/my-account/settings.php:392
+#. translators: 1: percentage
+msgid "Your personal info is %s%% completed"
+msgstr ""
+
+#: inc/admin/class-finder-plugin-install.php:104
+#: inc/classes/class-tgm-plugin-activation.php:330
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/admin/class-finder-plugin-install.php:153
+msgid "Activated"
+msgstr ""
+
+#: inc/admin/class-finder-plugin-install.php:166
+#: inc/classes/class-tgm-plugin-activation.php:2840
+msgid "Activate"
+msgstr ""
+
+#: inc/admin/class-finder-plugin-install.php:187
+msgid "Install now"
+msgstr ""
+
+#: inc/admin/class-finder-plugin-install.php:206
+#. translators: conjunction of two alternative options user can choose (in
+#. missing plugin admin notice).
+msgid "or"
+msgstr ""
+
+#: inc/admin/class-finder-plugin-install.php:207
+msgid "learn more"
+msgstr ""
+
+#: inc/admin/class-finder-plugin-install.php:266
+msgid "Finder Elementor"
+msgstr ""
+
+#: inc/admin/class-finder-plugin-install.php:272
+msgid "Elementor"
+msgstr ""
+
+#: inc/admin/class-finder-plugin-install.php:277
+msgid "One Click Demo Import"
+msgstr ""
+
+#: inc/admin/class-finder-plugin-install.php:282
+msgid "Safe SVG"
+msgstr ""
+
+#: inc/admin/class-finder-plugin-install.php:287
+msgid "Advanced Custom Fields"
+msgstr ""
+
+#: inc/admin/class-finder-plugin-install.php:294
+msgid "HivePress"
+msgstr ""
+
+#: inc/admin/class-finder-plugin-install.php:299
+msgid "HivePress Authentication"
+msgstr ""
+
+#: inc/admin/class-finder-plugin-install.php:304
+msgid "HivePress Claim Listings"
+msgstr ""
+
+#: inc/admin/class-finder-plugin-install.php:309
+msgid "HivePress Favorites"
+msgstr ""
+
+#: inc/admin/class-finder-plugin-install.php:314
+msgid "HivePress Geolocation"
+msgstr ""
+
+#: inc/admin/class-finder-plugin-install.php:319
+msgid "HivePress Messages"
+msgstr ""
+
+#: inc/admin/class-finder-plugin-install.php:324
+msgid "HivePress Paid Listings"
+msgstr ""
+
+#: inc/admin/class-finder-plugin-install.php:329
+msgid "HivePress Reviews"
+msgstr ""
+
+#: inc/admin/class-finder-plugin-install.php:336
+msgid "WP Job Manager"
+msgstr ""
+
+#: inc/class-finder.php:96
+msgid "Primary Menu"
+msgstr ""
+
+#: inc/class-finder.php:97
+msgid "Offcanvas Menu"
+msgstr ""
+
+#: inc/class-finder.php:98
+msgid "Social Media"
+msgstr ""
+
+#: inc/class-finder.php:99
+msgid "Footer Menu"
+msgstr ""
+
+#: inc/class-finder.php:173 inc/customizer/class-finder-customizer.php:303
+#: inc/customizer/class-finder-customizer.php:381
+#: inc/customizer/class-finder-customizer.php:539
+#: inc/customizer/class-finder-customizer.php:801
+#: inc/customizer/class-finder-customizer.php:1233
+#: inc/customizer/class-finder-customizer.php:1952
+#: inc/customizer/class-finder-customizer.php:2113
+msgid "Small"
+msgstr ""
+
+#: inc/class-finder.php:178
+msgid "Normal"
+msgstr ""
+
+#: inc/class-finder.php:183
+msgid "Medium"
+msgstr ""
+
+#: inc/class-finder.php:188 inc/customizer/class-finder-customizer.php:304
+#: inc/customizer/class-finder-customizer.php:382
+#: inc/customizer/class-finder-customizer.php:540
+#: inc/customizer/class-finder-customizer.php:802
+#: inc/customizer/class-finder-customizer.php:1234
+#: inc/customizer/class-finder-customizer.php:1953
+#: inc/customizer/class-finder-customizer.php:2114
+msgid "Large"
+msgstr ""
+
+#: inc/class-finder.php:193
+msgid "Huge"
+msgstr ""
+
+#: inc/class-finder.php:223 inc/customizer/class-finder-customizer.php:1398
+#. translators: label field of control in Customizer
+msgid "Blog Sidebar"
+msgstr ""
+
+#: inc/class-finder.php:238 inc/customizer/class-finder-customizer.php:1666
+#. translators: label field of control in Customizer
+msgid "Blog Single Sidebar"
+msgstr ""
+
+#: inc/class-finder.php:253
+msgid "Offcanvas Sidebar"
+msgstr ""
+
+#: inc/class-finder.php:277
+#. translators: 1: column number
+msgid "Footer Column %1$d"
+msgstr ""
+
+#: inc/class-finder.php:280
+#. translators: 1: column number
+msgid "Widgets added here will appear in column %1$d of the footer."
+msgstr ""
+
+#: inc/class-finder.php:283
+#. translators: 1: row number, 2: column number
+msgid "Footer Row %1$d - Column %2$d"
+msgstr ""
+
+#: inc/class-finder.php:286
+#. translators: 1: column number, 2: row number
+msgid "Widgets added here will appear in column %1$d of footer row %2$d."
+msgstr ""
+
+#: inc/classes/class-finder-breadcrumb.php:113
+msgid "Error 404"
+msgstr ""
+
+#: inc/classes/class-finder-breadcrumb.php:227
+#. translators: %s: product tag
+msgid "Products tagged &ldquo;%s&rdquo;"
+msgstr ""
+
+#: inc/classes/class-finder-breadcrumb.php:279
+#. translators: %s: tag name
+msgid "Posts tagged &ldquo;%s&rdquo;"
+msgstr ""
+
+#: inc/classes/class-finder-breadcrumb.php:322
+#. translators: %s: author name
+msgid "Author: %s"
+msgstr ""
+
+#: inc/classes/class-finder-breadcrumb.php:366
+#. translators: %s: search term
+msgid "Search results for &ldquo;%s&rdquo;"
+msgstr ""
+
+#: inc/classes/class-finder-breadcrumb.php:376
+#. translators: %d: page number
+msgid "Page %d"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:329
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:332
+#. translators: %s: plugin name.
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:334
+#. translators: %s: plugin name.
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:335
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:337
+#. translators: 1: plugin name(s)
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/classes/class-tgm-plugin-activation.php:343
+#. translators: 1: plugin name(s).
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/classes/class-tgm-plugin-activation.php:349
+#. translators: 1: plugin name(s).
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/classes/class-tgm-plugin-activation.php:355
+#. translators: 1: plugin name(s).
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/classes/class-tgm-plugin-activation.php:361
+#. translators: 1: plugin name(s).
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/classes/class-tgm-plugin-activation.php:367
+#. translators: 1: plugin name(s).
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/classes/class-tgm-plugin-activation.php:372
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/classes/class-tgm-plugin-activation.php:377
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/classes/class-tgm-plugin-activation.php:382
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/classes/class-tgm-plugin-activation.php:387
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:388
+#: inc/classes/class-tgm-plugin-activation.php:910
+#: inc/classes/class-tgm-plugin-activation.php:2649
+#: inc/classes/class-tgm-plugin-activation.php:3694
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:389
+#: inc/classes/class-tgm-plugin-activation.php:3273
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:390
+#: inc/classes/class-tgm-plugin-activation.php:3068
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:392
+#. translators: 1: plugin name.
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:394
+#. translators: 1: plugin name.
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:396
+#. translators: 1: dashboard link.
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:397
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:398
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:399
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:602
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:603
+msgid "Update Required"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:1019
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:1019
+#: inc/classes/class-tgm-plugin-activation.php:1029
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:1029
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2100
+#. translators: %s: version number
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2389
+msgid "Required"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2392
+msgid "Recommended"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2408
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2411
+msgid "External Source"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2414
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2431
+msgid "Not Installed"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2435
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2437
+msgid "Active"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2443
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2446
+msgid "Requires Update"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2449
+msgid "Update recommended"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2508
+#. translators: 1: number of plugins.
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2512
+#. translators: 1: number of plugins.
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2516
+#. translators: 1: number of plugins.
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2606
+msgid "Installed version:"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2614
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2626
+msgid "Available version:"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2649
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2663
+msgid "Plugin"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2664
+msgid "Source"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2665
+msgid "Type"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2669
+msgid "Version"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2670
+msgid "Status"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2717
+#. translators: %2$s: plugin name in screen reader markup
+msgid "Install %2$s"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2722
+#. translators: %2$s: plugin name in screen reader markup
+msgid "Update %2$s"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2728
+#. translators: %2$s: plugin name in screen reader markup
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2798
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2831
+msgid "Install"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2837
+msgid "Update"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2871
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2873
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2914
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2916
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3024
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3050
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3272
+msgid "Plugin activation failed."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3614
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3617
+#. translators: 1: plugin name, 2: error message.
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3619
+#. translators: 1: plugin name.
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3623
+msgid ""
+"The installation and activation process is starting. This process may take "
+"a while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3625
+#. translators: 1: plugin name.
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3627
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3630
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3632
+#. translators: 1: plugin name.
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3634
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/classes/class-wp-bootstrap-navwalker.php:417
+msgid "Add a menu"
+msgstr ""
+
+#: inc/core/class-theme-strings.php:32
+msgid "Skip to content"
+msgstr ""
+
+#: inc/core/class-theme-strings.php:35
+msgid "It looks like the link pointing here was faulty. Maybe try searching?"
+msgstr ""
+
+#: inc/core/class-theme-strings.php:40
+msgid "Start typing and press enter to search"
+msgstr ""
+
+#: inc/core/class-theme-strings.php:41 inc/core/class-theme-strings.php:42
+#: inc/core/class-theme-strings.php:43
+msgid "Search &hellip;"
+msgstr ""
+
+#: inc/core/class-theme-strings.php:46
+msgid "Reply"
+msgstr ""
+
+#: inc/core/class-theme-strings.php:47
+#: inc/template-functions/single-post.php:423 job_manager/job-submit.php:81
+#: job_manager/job-submit.php:117 job_manager/job-submit.php:175
+#: job_manager/job-submit.php:229
+msgid "Edit"
+msgstr ""
+
+#: inc/core/class-theme-strings.php:48
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/core/class-theme-strings.php:49 inc/core/class-theme-strings.php:64
+msgid "Leave a Comment"
+msgstr ""
+
+#: inc/core/class-theme-strings.php:50
+msgid "Cancel Reply"
+msgstr ""
+
+#: inc/core/class-theme-strings.php:51
+msgid "Post Comment &raquo;"
+msgstr ""
+
+#: inc/core/class-theme-strings.php:52
+msgid "Type here.."
+msgstr ""
+
+#: inc/core/class-theme-strings.php:53
+msgid "Name*"
+msgstr ""
+
+#: inc/core/class-theme-strings.php:54
+msgid "Email*"
+msgstr ""
+
+#: inc/core/class-theme-strings.php:55
+#: inc/template-functions/single-post.php:468
+#: inc/wpjm/template-functions/single-job-listing.php:216
+msgid "Website"
+msgstr ""
+
+#: inc/core/class-theme-strings.php:58
+msgid "Newer Comments"
+msgstr ""
+
+#: inc/core/class-theme-strings.php:59
+msgid "Older Comments"
+msgstr ""
+
+#: inc/core/class-theme-strings.php:62 inc/core/class-theme-strings.php:71
+#: inc/template-functions/global.php:339
+msgid "Pages:"
+msgstr ""
+
+#: inc/core/class-theme-strings.php:63
+msgid "By "
+msgstr ""
+
+#: inc/core/class-theme-strings.php:65 inc/template-functions/loop-post.php:336
+msgid "1 Comment"
+msgstr ""
+
+#: inc/core/class-theme-strings.php:66 inc/template-functions/loop-post.php:336
+msgid "% Comments"
+msgstr ""
+
+#: inc/core/class-theme-strings.php:67 inc/core/class-theme-strings.php:84
+msgid "Next Page"
+msgstr ""
+
+#: inc/core/class-theme-strings.php:68 inc/core/class-theme-strings.php:85
+msgid "Previous Page"
+msgstr ""
+
+#: inc/core/class-theme-strings.php:73 inc/core/class-theme-strings.php:88
+#. translators: 1: Post type label
+msgid "Next %s"
+msgstr ""
+
+#: inc/core/class-theme-strings.php:75 inc/core/class-theme-strings.php:90
+#. translators: 1: Post type label
+msgid "Previous %s"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:45
+msgid "Header"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:46
+#: inc/customizer/class-finder-customizer.php:65
+msgid "Customize the theme header."
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:64
+#: inc/customizer/class-finder-customizer.php:1018
+msgid "General"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:84
+msgid "Enable Sticky Header ?  "
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:85
+msgid "This setting allows you to enable or disable sticky header."
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:87
+#: inc/customizer/class-finder-customizer.php:109
+#: inc/customizer/class-finder-customizer.php:131
+#: inc/customizer/class-finder-customizer.php:152
+#: inc/customizer/class-finder-customizer.php:176
+#: inc/customizer/class-finder-customizer.php:354
+#: inc/customizer/class-finder-customizer.php:513
+#: inc/customizer/class-finder-customizer.php:692
+#: inc/customizer/class-finder-customizer.php:1055
+#: inc/customizer/class-finder-customizer.php:1099
+#: inc/customizer/class-finder-customizer.php:1977
+#: inc/customizer/class-finder-customizer.php:2546
+#: inc/hivepress/class-finder-hivepress-customizer.php:197
+#: inc/hivepress/class-finder-hivepress-customizer.php:447
+msgid "Yes"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:88
+#: inc/customizer/class-finder-customizer.php:110
+#: inc/customizer/class-finder-customizer.php:132
+#: inc/customizer/class-finder-customizer.php:153
+#: inc/customizer/class-finder-customizer.php:177
+#: inc/customizer/class-finder-customizer.php:355
+#: inc/customizer/class-finder-customizer.php:514
+#: inc/customizer/class-finder-customizer.php:693
+#: inc/customizer/class-finder-customizer.php:1056
+#: inc/customizer/class-finder-customizer.php:1100
+#: inc/customizer/class-finder-customizer.php:1978
+#: inc/customizer/class-finder-customizer.php:2547
+#: inc/hivepress/class-finder-hivepress-customizer.php:198
+#: inc/hivepress/class-finder-hivepress-customizer.php:448
+msgid "No"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:106
+msgid "Enable Navbar Dark ?  "
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:107
+msgid "This setting allows you to enable or disable dark header."
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:128
+msgid "Enable transparent Navbar ?  "
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:129
+msgid "This setting allows you to enable or disable transparent header."
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:150
+msgid "Enable Signin Button ? "
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:174
+msgid "Enable Buy Finder Button ?"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:195
+msgid "Change Buy Finder Button Icon"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:196
+#: inc/customizer/class-finder-customizer.php:461
+#: inc/customizer/class-finder-customizer.php:640
+#: inc/customizer/class-finder-customizer.php:1257
+msgid "This setting allows you to change the button icon"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:217
+msgid "Buy Finder Button Color"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:238
+#: inc/customizer/class-finder-customizer.php:1168
+msgid "Buy Finder"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:249
+msgid "Buy Finder Button Text"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:250
+#: inc/customizer/class-finder-customizer.php:748
+#: inc/customizer/class-finder-customizer.php:1180
+#: inc/customizer/class-finder-customizer.php:1841
+#: inc/customizer/class-finder-customizer.php:2001
+msgid "This setting allows you to change the button text"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:278
+msgid "Buy Finder Button Link"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:279
+#: inc/customizer/class-finder-customizer.php:619
+#: inc/customizer/class-finder-customizer.php:777
+#: inc/customizer/class-finder-customizer.php:1209
+msgid "This setting allows you to change the button link"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:299
+msgid "Buy Finder Button Size"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:300
+msgid "This setting allows you to choose your header button size."
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:302
+#: inc/customizer/class-finder-customizer.php:380
+#: inc/customizer/class-finder-customizer.php:538
+#: inc/customizer/class-finder-customizer.php:800
+#: inc/customizer/class-finder-customizer.php:1232
+#: inc/customizer/class-finder-customizer.php:1951
+#: inc/customizer/class-finder-customizer.php:2112
+msgid "Extra Small"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:325
+msgid "Buy Finder Button Shape"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:326
+msgid "This setting allows you to choose your header button shape."
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:328
+#: inc/customizer/class-finder-customizer.php:406
+#: inc/customizer/class-finder-customizer.php:564
+#: inc/customizer/class-finder-customizer.php:1925
+#: inc/customizer/class-finder-customizer.php:2086
+#: inc/customizer/class-finder-customizer.php:2138
+msgid "Default"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:329
+#: inc/customizer/class-finder-customizer.php:407
+#: inc/customizer/class-finder-customizer.php:565
+#: inc/customizer/class-finder-customizer.php:1926
+#: inc/customizer/class-finder-customizer.php:2087
+msgid "Pill"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:330
+#: inc/customizer/class-finder-customizer.php:408
+#: inc/customizer/class-finder-customizer.php:566
+#: inc/customizer/class-finder-customizer.php:1927
+#: inc/customizer/class-finder-customizer.php:2088
+msgid "Square"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:352
+msgid "Enable Add Listing Button ? "
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:377
+msgid "Header Listing Button Size"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:378
+msgid "This setting allows you to choose your header listing button size."
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:403
+msgid "Header Listing Button Shape"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:404
+msgid "This setting allows you to choose your header listing button shape."
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:420
+msgid "Add property"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:431
+msgid "Header Listing Button Text"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:432
+msgid "This setting allows you to change the listing button text"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:460
+msgid "Header Listing Button Icon"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:481
+msgid "Header Listing Button Color"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:511
+msgid "Enable Post Resume Button ? "
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:535
+msgid "Header Post Resume Button Size"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:536
+msgid "This setting allows you to choose your post resume button size."
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:561
+msgid "Header Post Resume Button Shape"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:562
+msgid "This setting allows you to choose your post resume button shape."
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:578
+#: inc/template-functions/header.php:285
+msgid "Post resume"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:589
+msgid "Header Post Resume Button Text"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:590
+msgid "This setting allows you to change the Post resume button text"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:618
+msgid "Post Resume Button Link"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:639
+msgid "Header Post Resume Button Icon"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:660
+msgid "Header Post Resume Button Color"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:690
+msgid "Enable Employers Button ? "
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:715
+msgid "Employers Button Color"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:736
+#: inc/template-functions/header.php:362
+msgid "For employers"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:747
+msgid "Employers Button Text"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:776
+msgid "Employers Button Link"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:797
+msgid "Employers Button Size"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:798
+#: inc/customizer/class-finder-customizer.php:1230
+msgid "This setting allows you to choose your button size."
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:821
+#: inc/hivepress/class-finder-hivepress-customizer.php:360
+msgid "My Account"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:822
+msgid "Customize the theme Signin and Signup."
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:834
+msgid "Hey there!<br>Welcome back."
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:845
+msgid "Sign in Title"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:846
+msgid "This setting allows you to change the signin title"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:872
+msgid "Sign in Image Upload"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:873
+msgid "This setting allows you to upload an image for Signin page."
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:885
+msgid "Join Finder.<br>Get premium benefits:"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:896
+msgid "Signup Title"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:897
+msgid "This setting allows you to change the signup title"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:904
+#: inc/template-functions/header.php:712
+msgid ""
+"Add and promote your listings\n"
+"Easily manage your wishlist\n"
+"Leave reviews"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:915
+msgid "Signup Features"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:916
+msgid "Enter Each feature in a separate line."
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:942
+msgid "Signup Image Upload"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:943
+msgid "This setting allows you to upload an image for Signup page."
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:966
+msgid "Forgot password Form Title"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:967
+msgid "This setting allows you to change the reset password page title"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:982
+msgid "Enter your email to reset your password."
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:993
+msgid "Forgot password Form Description"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:994
+msgid "This setting allows you to change the reset password page description"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:1019
+msgid "Option for offcanvas"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:1035
+msgid "Scroll to Top"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:1036
+msgid "Customize the theme scroll to top."
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:1053
+msgid "Enable Scroll to Top"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:1077
+msgid "Offcanvas"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:1078
+msgid "Customize the theme offcanvas."
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:1097
+msgid "Enable Offcanvas ?  "
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:1118
+msgid "Offcanvas Title"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:1146
+msgid "Offcanvas Footer Button Color"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:1179
+msgid "Offcanvas Footer Button Text"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:1208
+msgid "Offcanvas Footer Button Link"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:1229
+msgid "Offcanvas Footer Button Size"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:1256
+msgid "Offcanvas Footer Button Icon"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:1278
+msgid "Offcanvas Start Icon Position"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:1303
+#: inc/template-functions/global.php:369
+msgid "Blog"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:1304
+msgid "Option for blog single post"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:1322
+msgid "Blog Archive"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:1338
+msgid "Blog Styles"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:1339
+msgid "Select blog post version"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:1399
+msgid "This setting affects blog archives. This works when blog sidebar has widgets"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:1401
+#: inc/customizer/class-finder-customizer.php:1669
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:1402
+#: inc/customizer/class-finder-customizer.php:1670
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:1403
+#: inc/customizer/class-finder-customizer.php:1671
+msgid "Full Width"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:1429
+msgid "Blog Single"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:1445
+msgid "Style"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:1446
+msgid "Select single post version"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:1480
+msgid "Single post social share"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:1481
+msgid "This setting allows you to enable or disable post social share."
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:1509
+msgid "Single post related posts"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:1510
+#: inc/hivepress/class-finder-hivepress-customizer.php:195
+#: inc/hivepress/class-finder-hivepress-customizer.php:445
+#: inc/wpjm/class-finder-wpjm-customizer.php:129
+msgid "This setting allows you to enable or disable related posts"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:1521
+#: inc/template-functions/single-post.php:610
+msgid "You may be also interested in"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:1529
+msgid "Related Post Text"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:1530
+#: inc/hivepress/class-finder-hivepress-customizer.php:222
+#: inc/hivepress/class-finder-hivepress-customizer.php:475
+#: inc/wpjm/class-finder-wpjm-customizer.php:147
+msgid "Enter your custom title"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:1557
+#: inc/template-functions/single-post.php:611
+msgid "Go to blog"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:1565
+msgid "Related Post Link Text"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:1566
+#: inc/hivepress/class-finder-hivepress-customizer.php:251
+#: inc/hivepress/class-finder-hivepress-customizer.php:504
+#: inc/wpjm/class-finder-wpjm-customizer.php:176
+msgid "Enter your custom link text"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:1587
+msgid "Related Post Url"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:1588
+#: inc/hivepress/class-finder-hivepress-customizer.php:280
+#: inc/hivepress/class-finder-hivepress-customizer.php:534
+#: inc/wpjm/class-finder-wpjm-customizer.php:205
+msgid "Enter your custom url"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:1619
+msgid "Related Post Column options"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:1620
+#: inc/customizer/class-finder-customizer.php:1643
+#: inc/wpjm/class-finder-wpjm-customizer.php:261
+msgid "Enter your custom number."
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:1642
+#: inc/wpjm/class-finder-wpjm-customizer.php:260
+msgid "Related Post per page options"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:1667
+msgid ""
+"This setting affects blog single post. This works when blog sidebar has "
+"widgets"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:1725
+msgid "404 Page Variant"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:1726
+msgid "This setting allows you to choose your 404 page types."
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:1728
+msgid "404 v1"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:1729
+msgid "404 v2"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:1730
+msgid "404 v3"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:1731
+msgid "404 v4"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:1760
+msgid "404 Image Upload"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:1761
+msgid "This setting allows you to upload an image for 404 page."
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:1784
+msgid "404 Title"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:1801
+msgid ""
+"Sorry, we can’t find the page you are looking for. We suggest you go to "
+"homepage while we are fixing the problem."
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:1812
+msgid "Description"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:1829
+msgid "Go to homepage"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:1840
+msgid "Primary Button Text"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:1871
+msgid "Primary Button Color"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:1901
+msgid "Primary Button Url"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:1902
+#: inc/customizer/class-finder-customizer.php:2063
+msgid "This setting allows you to change button url."
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:1922
+msgid "Primary Button Shape"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:1923
+msgid "This setting allows you to choose your 404 Page button shape."
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:1948
+msgid "Primary Button Size"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:1949
+msgid "This setting allows you to choose your 404 page primary button size."
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:1974
+msgid "Enable Secondary Button ?  "
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:1975
+msgid "This setting allows you to enable or disable secondary button."
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:1989
+msgid "Visit help center"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:2000
+msgid "Secondary Button Text"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:2031
+msgid "Secondary Button Color"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:2033 inc/finder-functions.php:330
+msgid "Primary"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:2034 inc/finder-functions.php:340
+msgid "Success"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:2035 inc/finder-functions.php:355
+msgid "Danger"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:2036 inc/finder-functions.php:350
+msgid "Warning"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:2037 inc/finder-functions.php:345
+#: inc/hivepress/template-functions/listing-single.php:2130
+msgid "Info"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:2038 inc/finder-functions.php:365
+msgid "Dark"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:2039
+msgid "Accent"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:2040
+msgid "Link"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:2041 inc/finder-functions.php:360
+msgid "Light"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:2062
+msgid "Secondary Button Url"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:2083
+msgid "Secondary Button Shape"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:2084
+msgid "This setting allows you to choose your 404 Page Secondary button shape."
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:2109
+msgid "Secondary Button Size"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:2110
+msgid "This setting allows you to choose your 404 page secondary button size."
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:2135
+msgid "Secondary Button Variant"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:2136
+msgid "This setting allows you to choose your 404 Page secondary button variant."
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:2139
+msgid "Outline"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:2140
+msgid "Translucent"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:2159
+msgid "Footer"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:2187
+msgid "Footer Variant"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:2188
+msgid "This setting allows you to choose your footer type."
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:2190
+msgid "Footer v1"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:2191
+msgid "Footer v2"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:2192
+msgid "Footer v3"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:2193
+msgid "Footer v4"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:2194
+msgid "Footer v5"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:2195
+msgid "Footer v6"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:2211
+#: inc/template-functions/footer.php:25
+msgid "Subscribe to our newsletter"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:2219
+msgid "Form Title"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:2220
+msgid "Title of your form to be displayed in the footer."
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:2249
+msgid "Enter Newsletter Form Shortcode"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:2250
+msgid "Paste your newsletter signup form or shortcode"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:2267
+#: inc/template-functions/footer.php:46
+msgid ""
+"*Subscribe to our newsletter to receive early discount offers, updates and "
+"new products info."
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:2275
+msgid "Footer Form Description"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:2276
+msgid "Description of your form to be displayed in the footer."
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:2298
+msgid "Upload a banner image"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:2299
+msgid "Upload a banner image for footer"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:2328
+msgid "Upload a banner appstore image"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:2329
+msgid "Upload a banner appstore image for footer"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:2358
+msgid "Banner appstore image Link"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:2359
+msgid "This setting allows you to change the Banner appstore image link"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:2386
+msgid "Upload a banner googleplay image"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:2387
+msgid "Upload a banner googleplay image for footer"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:2416
+msgid "Banner googleplay image Link"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:2417
+msgid "This setting allows you to change the Banner googleplay image link"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:2442
+msgid "Footer Banner Title"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:2443
+msgid "Title of your banner to be displayed in the footer."
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:2471
+msgid "Footer Banner Description"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:2472
+msgid "Description of your banner to be displayed in the footer."
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:2510
+#. translators: footer copy  rights
+msgid "Copyright Text"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:2511
+msgid "Enter your copyright text below"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:2540
+msgid "Enable Custom Color?"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:2541
+msgid "This settings allow you to apply your custom color option."
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:2567
+msgid "Primary color"
+msgstr ""
+
+#: inc/finder-functions.php:335
+msgid "Secondary"
+msgstr ""
+
+#: inc/finder-functions.php:370
+msgid "Text"
+msgstr ""
+
+#: inc/finder-functions.php:420 inc/wpjm/finder-wpjm-template-functions.php:220
+msgid "&laquo; Prev"
+msgstr ""
+
+#: inc/finder-functions.php:421 inc/wpjm/finder-wpjm-template-functions.php:221
+msgid "Next &raquo;"
+msgstr ""
+
+#: inc/finder-functions.php:436
+msgid "Blog Pagination"
+msgstr ""
+
+#: inc/finder-functions.php:438
+msgid "Pagination"
+msgstr ""
+
+#: inc/functions/global.php:72
+msgid "alarm"
+msgstr ""
+
+#: inc/functions/global.php:73
+msgid "alert-circle"
+msgstr ""
+
+#: inc/functions/global.php:74
+msgid "alert-octagon"
+msgstr ""
+
+#: inc/functions/global.php:75
+msgid "alert-triange"
+msgstr ""
+
+#: inc/functions/global.php:76
+msgid "align-justify"
+msgstr ""
+
+#: inc/functions/global.php:77
+msgid "align-left"
+msgstr ""
+
+#: inc/functions/global.php:78
+msgid "align-right"
+msgstr ""
+
+#: inc/functions/global.php:79
+msgid "anchor"
+msgstr ""
+
+#: inc/functions/global.php:80
+msgid "archive"
+msgstr ""
+
+#: inc/functions/global.php:81
+msgid "arrow-back-up"
+msgstr ""
+
+#: inc/functions/global.php:82
+msgid "arrow-back"
+msgstr ""
+
+#: inc/functions/global.php:83
+msgid "arrow-down"
+msgstr ""
+
+#: inc/functions/global.php:84
+msgid "arrow-forward-up"
+msgstr ""
+
+#: inc/functions/global.php:85
+msgid "arrow-forward"
+msgstr ""
+
+#: inc/functions/global.php:86
+msgid "arrow-left"
+msgstr ""
+
+#: inc/functions/global.php:87
+msgid "arrow-long-down"
+msgstr ""
+
+#: inc/functions/global.php:88
+msgid "arrow-long-left"
+msgstr ""
+
+#: inc/functions/global.php:89
+msgid "arrow-long-right"
+msgstr ""
+
+#: inc/functions/global.php:90
+msgid "arrow-long-up"
+msgstr ""
+
+#: inc/functions/global.php:91
+msgid "arrow-right"
+msgstr ""
+
+#: inc/functions/global.php:92
+msgid "arrow-up"
+msgstr ""
+
+#: inc/functions/global.php:93
+msgid "arrow-sort"
+msgstr ""
+
+#: inc/functions/global.php:94
+msgid "award"
+msgstr ""
+
+#: inc/functions/global.php:95
+msgid "bell-off"
+msgstr ""
+
+#: inc/functions/global.php:96
+msgid "bell-on"
+msgstr ""
+
+#: inc/functions/global.php:97
+msgid "bell"
+msgstr ""
+
+#: inc/functions/global.php:98
+msgid "bookmark-filled"
+msgstr ""
+
+#: inc/functions/global.php:99
+msgid "bookmark"
+msgstr ""
+
+#: inc/functions/global.php:100
+msgid "Bbriefcase"
+msgstr ""
+
+#: inc/functions/global.php:101
+msgid "building"
+msgstr ""
+
+#: inc/functions/global.php:102
+msgid "calendar"
+msgstr ""
+
+#: inc/functions/global.php:103
+msgid "calendar-alt"
+msgstr ""
+
+#: inc/functions/global.php:104
+msgid "camera Plus"
+msgstr ""
+
+#: inc/functions/global.php:105
+msgid "car"
+msgstr ""
+
+#: inc/functions/global.php:106
+msgid "cart"
+msgstr ""
+
+#: inc/functions/global.php:107
+msgid "cash"
+msgstr ""
+
+#: inc/functions/global.php:108
+msgid "chat-circle"
+msgstr ""
+
+#: inc/functions/global.php:109
+msgid "chat-left"
+msgstr ""
+
+#: inc/functions/global.php:110
+msgid "chat-right"
+msgstr ""
+
+#: inc/functions/global.php:111
+msgid "check"
+msgstr ""
+
+#: inc/functions/global.php:112
+msgid "check-circle"
+msgstr ""
+
+#: inc/functions/global.php:113
+msgid "checkbox"
+msgstr ""
+
+#: inc/functions/global.php:114
+msgid "checkbox-checked"
+msgstr ""
+
+#: inc/functions/global.php:115
+msgid "checkbox-checked-alt"
+msgstr ""
+
+#: inc/functions/global.php:116
+msgid "chevron-down"
+msgstr ""
+
+#: inc/functions/global.php:117
+msgid "chevron-left"
+msgstr ""
+
+#: inc/functions/global.php:118
+msgid "chevron-right"
+msgstr ""
+
+#: inc/functions/global.php:119
+msgid "chevron-up"
+msgstr ""
+
+#: inc/functions/global.php:120
+msgid "chevrons-left"
+msgstr ""
+
+#: inc/functions/global.php:121
+msgid "chevrons-right"
+msgstr ""
+
+#: inc/functions/global.php:122
+msgid "clock"
+msgstr ""
+
+#: inc/functions/global.php:123
+msgid "cloud-download"
+msgstr ""
+
+#: inc/functions/global.php:124
+msgid "cloud-upload"
+msgstr ""
+
+#: inc/functions/global.php:125
+msgid "corner-down-left"
+msgstr ""
+
+#: inc/functions/global.php:126
+msgid "corner-down-right"
+msgstr ""
+
+#: inc/functions/global.php:127
+msgid "corner-left-down"
+msgstr ""
+
+#: inc/functions/global.php:128
+msgid "corner-left-up"
+msgstr ""
+
+#: inc/functions/global.php:129
+msgid "corner-right-down"
+msgstr ""
+
+#: inc/functions/global.php:130
+msgid "corner-right-up"
+msgstr ""
+
+#: inc/functions/global.php:131
+msgid "corner-up-left"
+msgstr ""
+
+#: inc/functions/global.php:132
+msgid "corner-up-right"
+msgstr ""
+
+#: inc/functions/global.php:133
+msgid "credit-card-off"
+msgstr ""
+
+#: inc/functions/global.php:134
+msgid "credit-card"
+msgstr ""
+
+#: inc/functions/global.php:135
+msgid "cup"
+msgstr ""
+
+#: inc/functions/global.php:136
+msgid "dashboard"
+msgstr ""
+
+#: inc/functions/global.php:137
+msgid "device-desktop"
+msgstr ""
+
+#: inc/functions/global.php:138
+msgid "device-laptop"
+msgstr ""
+
+#: inc/functions/global.php:139
+msgid "device-mobile"
+msgstr ""
+
+#: inc/functions/global.php:140
+msgid "device-tablet"
+msgstr ""
+
+#: inc/functions/global.php:141
+msgid "dislike"
+msgstr ""
+
+#: inc/functions/global.php:142
+msgid "dots-horisontal"
+msgstr ""
+
+#: inc/functions/global.php:143
+msgid "dots-vertical"
+msgstr ""
+
+#: inc/functions/global.php:144
+msgid "download-file"
+msgstr ""
+
+#: inc/functions/global.php:145
+msgid "download"
+msgstr ""
+
+#: inc/functions/global.php:146
+msgid "edit"
+msgstr ""
+
+#: inc/functions/global.php:147
+msgid "education"
+msgstr ""
+
+#: inc/functions/global.php:148
+msgid "expand"
+msgstr ""
+
+#: inc/functions/global.php:149
+msgid "external-link"
+msgstr ""
+
+#: inc/functions/global.php:150
+msgid "eye-off"
+msgstr ""
+
+#: inc/functions/global.php:151
+msgid "eye-on"
+msgstr ""
+
+#: inc/functions/global.php:152
+msgid "file"
+msgstr ""
+
+#: inc/functions/global.php:153
+msgid "file-clean"
+msgstr ""
+
+#: inc/functions/global.php:154
+msgid "filter-alt-horizontal"
+msgstr ""
+
+#: inc/functions/global.php:155
+msgid "filter-alt-vertical"
+msgstr ""
+
+#: inc/functions/global.php:156
+msgid "filter"
+msgstr ""
+
+#: inc/functions/global.php:157
+msgid "filter-off"
+msgstr ""
+
+#: inc/functions/global.php:158
+msgid "flag"
+msgstr ""
+
+#: inc/functions/global.php:159
+msgid "flame"
+msgstr ""
+
+#: inc/functions/global.php:160
+msgid "folder"
+msgstr ""
+
+#: inc/functions/global.php:161
+msgid "folder-minus"
+msgstr ""
+
+#: inc/functions/global.php:162
+msgid "folder-off"
+msgstr ""
+
+#: inc/functions/global.php:163
+msgid "folder-plus"
+msgstr ""
+
+#: inc/functions/global.php:164
+msgid "folder-x"
+msgstr ""
+
+#: inc/functions/global.php:165
+msgid "folders"
+msgstr ""
+
+#: inc/functions/global.php:166
+msgid "footer"
+msgstr ""
+
+#: inc/functions/global.php:167
+msgid "friends"
+msgstr ""
+
+#: inc/functions/global.php:168
+msgid "geo"
+msgstr ""
+
+#: inc/functions/global.php:169
+msgid "gift"
+msgstr ""
+
+#: inc/functions/global.php:170
+msgid "glass"
+msgstr ""
+
+#: inc/functions/global.php:171
+msgid "globe"
+msgstr ""
+
+#: inc/functions/global.php:172
+msgid "grid"
+msgstr ""
+
+#: inc/functions/global.php:173
+msgid "header"
+msgstr ""
+
+#: inc/functions/global.php:174
+msgid "heart-filled"
+msgstr ""
+
+#: inc/functions/global.php:175
+msgid "heart"
+msgstr ""
+
+#: inc/functions/global.php:176
+msgid "help"
+msgstr ""
+
+#: inc/functions/global.php:177
+msgid "home"
+msgstr ""
+
+#: inc/functions/global.php:178
+msgid "image"
+msgstr ""
+
+#: inc/functions/global.php:179
+msgid "info-circle"
+msgstr ""
+
+#: inc/functions/global.php:180
+msgid "info-square"
+msgstr ""
+
+#: inc/functions/global.php:181
+msgid "layers"
+msgstr ""
+
+#: inc/functions/global.php:182
+msgid "like"
+msgstr ""
+
+#: inc/functions/global.php:183
+msgid "link"
+msgstr ""
+
+#: inc/functions/global.php:184
+msgid "list"
+msgstr ""
+
+#: inc/functions/global.php:185
+msgid "lock"
+msgstr ""
+
+#: inc/functions/global.php:186
+msgid "login"
+msgstr ""
+
+#: inc/functions/global.php:187
+msgid "logout"
+msgstr ""
+
+#: inc/functions/global.php:188
+msgid "mail"
+msgstr ""
+
+#: inc/functions/global.php:189
+msgid "man"
+msgstr ""
+
+#: inc/functions/global.php:190
+msgid "map"
+msgstr ""
+
+#: inc/functions/global.php:191
+msgid "map-pin"
+msgstr ""
+
+#: inc/functions/global.php:192
+msgid "map-pins"
+msgstr ""
+
+#: inc/functions/global.php:193
+msgid "microphone"
+msgstr ""
+
+#: inc/functions/global.php:194
+msgid "minus"
+msgstr ""
+
+#: inc/functions/global.php:195
+msgid "minus-circle"
+msgstr ""
+
+#: inc/functions/global.php:196
+msgid "minus-square"
+msgstr ""
+
+#: inc/functions/global.php:197
+msgid "music"
+msgstr ""
+
+#: inc/functions/global.php:198
+msgid "paperclip"
+msgstr ""
+
+#: inc/functions/global.php:199
+msgid "pencil"
+msgstr ""
+
+#: inc/functions/global.php:200
+msgid "phone"
+msgstr ""
+
+#: inc/functions/global.php:201
+msgid "pinned"
+msgstr ""
+
+#: inc/functions/global.php:202
+msgid "plane"
+msgstr ""
+
+#: inc/functions/global.php:203
+msgid "play"
+msgstr ""
+
+#: inc/functions/global.php:204
+msgid "play-circle"
+msgstr ""
+
+#: inc/functions/global.php:205
+msgid "play-filled"
+msgstr ""
+
+#: inc/functions/global.php:206
+msgid "plus"
+msgstr ""
+
+#: inc/functions/global.php:207
+msgid "plus-circle"
+msgstr ""
+
+#: inc/functions/global.php:208
+msgid "plus-square"
+msgstr ""
+
+#: inc/functions/global.php:209
+msgid "power"
+msgstr ""
+
+#: inc/functions/global.php:210
+msgid "quote"
+msgstr ""
+
+#: inc/functions/global.php:211
+msgid "refresh"
+msgstr ""
+
+#: inc/functions/global.php:212
+msgid "reply"
+msgstr ""
+
+#: inc/functions/global.php:213
+msgid "rotate-left"
+msgstr ""
+
+#: inc/functions/global.php:214
+msgid "rotate-right"
+msgstr ""
+
+#: inc/functions/global.php:215
+msgid "route"
+msgstr ""
+
+#: inc/functions/global.php:216
+msgid "search"
+msgstr ""
+
+#: inc/functions/global.php:217
+msgid "send"
+msgstr ""
+
+#: inc/functions/global.php:218
+msgid "settings"
+msgstr ""
+
+#: inc/functions/global.php:219
+msgid "share"
+msgstr ""
+
+#: inc/functions/global.php:220
+msgid "sidebar-left"
+msgstr ""
+
+#: inc/functions/global.php:221
+msgid "sidebar-right"
+msgstr ""
+
+#: inc/functions/global.php:222
+msgid "star"
+msgstr ""
+
+#: inc/functions/global.php:223
+msgid "star-fille"
+msgstr ""
+
+#: inc/functions/global.php:224
+msgid "star-half"
+msgstr ""
+
+#: inc/functions/global.php:225
+msgid "switch-horizontal"
+msgstr ""
+
+#: inc/functions/global.php:226
+msgid "switch-vertical"
+msgstr ""
+
+#: inc/functions/global.php:227
+msgid "ticket"
+msgstr ""
+
+#: inc/functions/global.php:228
+msgid "trash"
+msgstr ""
+
+#: inc/functions/global.php:229
+msgid "truck"
+msgstr ""
+
+#: inc/functions/global.php:230
+msgid "unlock"
+msgstr ""
+
+#: inc/functions/global.php:231
+msgid "upload-file"
+msgstr ""
+
+#: inc/functions/global.php:232
+msgid "upload"
+msgstr ""
+
+#: inc/functions/global.php:233
+msgid "user"
+msgstr ""
+
+#: inc/functions/global.php:234
+msgid "user-check"
+msgstr ""
+
+#: inc/functions/global.php:235
+msgid "user-minus"
+msgstr ""
+
+#: inc/functions/global.php:236
+msgid "user-plus"
+msgstr ""
+
+#: inc/functions/global.php:237
+msgid "user-x"
+msgstr ""
+
+#: inc/functions/global.php:238
+msgid "users"
+msgstr ""
+
+#: inc/functions/global.php:239
+msgid "video-off"
+msgstr ""
+
+#: inc/functions/global.php:240
+msgid "video"
+msgstr ""
+
+#: inc/functions/global.php:241
+msgid "wallet"
+msgstr ""
+
+#: inc/functions/global.php:242
+msgid "woman"
+msgstr ""
+
+#: inc/functions/global.php:243
+msgid "x"
+msgstr ""
+
+#: inc/functions/global.php:244
+msgid "x-circle"
+msgstr ""
+
+#: inc/functions/global.php:245
+msgid "x-square"
+msgstr ""
+
+#: inc/functions/global.php:246
+msgid "zoom-in"
+msgstr ""
+
+#: inc/functions/global.php:247
+msgid "zoom-out"
+msgstr ""
+
+#: inc/functions/global.php:248
+msgid "airbnb"
+msgstr ""
+
+#: inc/functions/global.php:249
+msgid "behance"
+msgstr ""
+
+#: inc/functions/global.php:250
+msgid "discord"
+msgstr ""
+
+#: inc/functions/global.php:251
+msgid "dribbble"
+msgstr ""
+
+#: inc/functions/global.php:252
+msgid "dropbox"
+msgstr ""
+
+#: inc/functions/global.php:253
+msgid "facebook"
+msgstr ""
+
+#: inc/functions/global.php:254
+msgid "facebook-square"
+msgstr ""
+
+#: inc/functions/global.php:255
+msgid "foursquare"
+msgstr ""
+
+#: inc/functions/global.php:256
+msgid "github"
+msgstr ""
+
+#: inc/functions/global.php:257
+msgid "google-drive"
+msgstr ""
+
+#: inc/functions/global.php:258
+msgid "google-play"
+msgstr ""
+
+#: inc/functions/global.php:259
+msgid "google"
+msgstr ""
+
+#: inc/functions/global.php:260
+msgid "hangouts"
+msgstr ""
+
+#: inc/functions/global.php:261
+msgid "instagram"
+msgstr ""
+
+#: inc/functions/global.php:262
+msgid "linkedin"
+msgstr ""
+
+#: inc/functions/global.php:263
+msgid "medium"
+msgstr ""
+
+#: inc/functions/global.php:264
+msgid "messenger"
+msgstr ""
+
+#: inc/functions/global.php:265
+msgid "odnoklassniki"
+msgstr ""
+
+#: inc/functions/global.php:266
+msgid "paypal"
+msgstr ""
+
+#: inc/functions/global.php:267
+msgid "pinterest"
+msgstr ""
+
+#: inc/functions/global.php:268
+msgid "rss"
+msgstr ""
+
+#: inc/functions/global.php:269
+msgid "skype"
+msgstr ""
+
+#: inc/functions/global.php:270
+msgid "slack"
+msgstr ""
+
+#: inc/functions/global.php:271
+msgid "snapchat"
+msgstr ""
+
+#: inc/functions/global.php:272
+msgid "soundcloud"
+msgstr ""
+
+#: inc/functions/global.php:273
+msgid "telegram"
+msgstr ""
+
+#: inc/functions/global.php:274
+msgid "telegram-circle"
+msgstr ""
+
+#: inc/functions/global.php:275
+msgid "tiktok"
+msgstr ""
+
+#: inc/functions/global.php:276
+msgid "tumblr"
+msgstr ""
+
+#: inc/functions/global.php:277
+msgid "twitch"
+msgstr ""
+
+#: inc/functions/global.php:278
+msgid "twitter"
+msgstr ""
+
+#: inc/functions/global.php:279
+msgid "viber"
+msgstr ""
+
+#: inc/functions/global.php:280
+msgid "vimeo"
+msgstr ""
+
+#: inc/functions/global.php:281
+msgid "vk"
+msgstr ""
+
+#: inc/functions/global.php:282
+msgid "wechat"
+msgstr ""
+
+#: inc/functions/global.php:283
+msgid "whatsapp"
+msgstr ""
+
+#: inc/functions/global.php:284
+msgid "xing"
+msgstr ""
+
+#: inc/functions/global.php:285
+msgid "youtube"
+msgstr ""
+
+#: inc/functions/global.php:286
+msgid "accounting"
+msgstr ""
+
+#: inc/functions/global.php:287
+msgid "apartment"
+msgstr ""
+
+#: inc/functions/global.php:288
+msgid "bath"
+msgstr ""
+
+#: inc/functions/global.php:289
+msgid "bed"
+msgstr ""
+
+#: inc/functions/global.php:290
+msgid "billboard-house"
+msgstr ""
+
+#: inc/functions/global.php:291
+msgid "cafe"
+msgstr ""
+
+#: inc/functions/global.php:292
+msgid "cctv"
+msgstr ""
+
+#: inc/functions/global.php:293
+msgid "cocktail"
+msgstr ""
+
+#: inc/functions/global.php:294
+msgid "computer"
+msgstr ""
+
+#: inc/functions/global.php:295
+msgid "disco-ball"
+msgstr ""
+
+#: inc/functions/global.php:296
+msgid "dish"
+msgstr ""
+
+#: inc/functions/global.php:297
+msgid "double-bed"
+msgstr ""
+
+#: inc/functions/global.php:298
+msgid "dumbell"
+msgstr ""
+
+#: inc/functions/global.php:299
+msgid "entertainment"
+msgstr ""
+
+#: inc/functions/global.php:300
+msgid "gearbox"
+msgstr ""
+
+#: inc/functions/global.php:301
+msgid "hotel-bell"
+msgstr ""
+
+#: inc/functions/global.php:302
+msgid "house-chosen"
+msgstr ""
+
+#: inc/functions/global.php:303
+msgid "iron"
+msgstr ""
+
+#: inc/functions/global.php:304 inc/functions/global.php:305
+msgid "laundry"
+msgstr ""
+
+#: inc/functions/global.php:306
+msgid "meds"
+msgstr ""
+
+#: inc/functions/global.php:307
+msgid "museum"
+msgstr ""
+
+#: inc/functions/global.php:308
+msgid "no-smoke"
+msgstr ""
+
+#: inc/functions/global.php:309
+msgid "parking"
+msgstr ""
+
+#: inc/functions/global.php:310
+msgid "pet"
+msgstr ""
+
+#: inc/functions/global.php:311
+msgid "petrol"
+msgstr ""
+
+#: inc/functions/global.php:312
+msgid "pie-chart"
+msgstr ""
+
+#: inc/functions/global.php:313
+msgid "plant"
+msgstr ""
+
+#: inc/functions/global.php:314
+msgid "real-estate-buy"
+msgstr ""
+
+#: inc/functions/global.php:315
+msgid "real-estate-house"
+msgstr ""
+
+#: inc/functions/global.php:316
+msgid "rent"
+msgstr ""
+
+#: inc/functions/global.php:317
+msgid "security"
+msgstr ""
+
+#: inc/functions/global.php:318
+msgid "shop"
+msgstr ""
+
+#: inc/functions/global.php:319 inc/functions/global.php:320
+msgid "shopping-bag"
+msgstr ""
+
+#: inc/functions/global.php:321
+msgid "snowflake"
+msgstr ""
+
+#: inc/functions/global.php:322
+msgid "spa"
+msgstr ""
+
+#: inc/functions/global.php:323
+msgid "swimming-pool"
+msgstr ""
+
+#: inc/functions/global.php:324
+msgid "thermometer"
+msgstr ""
+
+#: inc/functions/global.php:325
+msgid "tv"
+msgstr ""
+
+#: inc/functions/global.php:326
+msgid "wifi"
+msgstr ""
+
+#: inc/functions/template.php:39
+#. translators: %s template
+msgid "%s does not exist."
+msgstr ""
+
+#: inc/functions/template.php:56
+msgid "action_args should not be overwritten when calling finder_get_template."
+msgstr ""
+
+#: inc/hivepress/class-finder-hivepress-customizer.php:41
+msgid "Hivepress"
+msgstr ""
+
+#: inc/hivepress/class-finder-hivepress-customizer.php:63
+msgid "Listing Archive"
+msgstr ""
+
+#: inc/hivepress/class-finder-hivepress-customizer.php:81
+#: inc/hivepress/class-finder-hivepress-customizer.php:584
+msgid " Columns"
+msgstr ""
+
+#: inc/hivepress/class-finder-hivepress-customizer.php:108
+#: inc/wpjm/class-finder-wpjm-customizer.php:77
+msgid "Listings Layout"
+msgstr ""
+
+#: inc/hivepress/class-finder-hivepress-customizer.php:109
+#: inc/wpjm/class-finder-wpjm-customizer.php:78
+msgid "Select listings layout"
+msgstr ""
+
+#: inc/hivepress/class-finder-hivepress-customizer.php:135
+msgid "Listings Style"
+msgstr ""
+
+#: inc/hivepress/class-finder-hivepress-customizer.php:136
+#: inc/hivepress/class-finder-hivepress-customizer.php:169
+#: inc/hivepress/class-finder-hivepress-customizer.php:418
+msgid "Select listings version"
+msgstr ""
+
+#: inc/hivepress/class-finder-hivepress-customizer.php:141
+#: inc/hivepress/class-finder-hivepress-customizer.php:174
+#: inc/hivepress/class-finder-hivepress-customizer.php:423
+#: inc/ocdi/class-finder-ocdi.php:304
+msgid "Real Estate"
+msgstr ""
+
+#: inc/hivepress/class-finder-hivepress-customizer.php:142
+#: inc/hivepress/class-finder-hivepress-customizer.php:175
+#: inc/hivepress/class-finder-hivepress-customizer.php:424
+#: inc/ocdi/class-finder-ocdi.php:342
+msgid "City Guide"
+msgstr ""
+
+#: inc/hivepress/class-finder-hivepress-customizer.php:143
+#: inc/hivepress/class-finder-hivepress-customizer.php:176
+#: inc/hivepress/class-finder-hivepress-customizer.php:425
+#: inc/ocdi/class-finder-ocdi.php:317
+msgid "Car Finder"
+msgstr ""
+
+#: inc/hivepress/class-finder-hivepress-customizer.php:152
+msgid "Listing Single"
+msgstr ""
+
+#: inc/hivepress/class-finder-hivepress-customizer.php:168
+msgid "Listing Single Style"
+msgstr ""
+
+#: inc/hivepress/class-finder-hivepress-customizer.php:194
+msgid "Single post related listings"
+msgstr ""
+
+#: inc/hivepress/class-finder-hivepress-customizer.php:213
+#: inc/hivepress/class-finder-hivepress-customizer.php:466
+#: inc/hivepress/template-functions/listing-single.php:943
+#: inc/hivepress/template-functions/listing-single.php:1088
+msgid "Recently viewed"
+msgstr ""
+
+#: inc/hivepress/class-finder-hivepress-customizer.php:221
+#: inc/hivepress/class-finder-hivepress-customizer.php:474
+msgid "Related Listing Text"
+msgstr ""
+
+#: inc/hivepress/class-finder-hivepress-customizer.php:242
+#: inc/hivepress/class-finder-hivepress-customizer.php:495
+#: inc/hivepress/template-functions/listing-single.php:944
+#: inc/hivepress/template-functions/listing-single.php:1095
+#: inc/wpjm/class-finder-wpjm-customizer.php:167
+#: inc/wpjm/template-functions/single-job-listing.php:307
+msgid "View all"
+msgstr ""
+
+#: inc/hivepress/class-finder-hivepress-customizer.php:250
+#: inc/hivepress/class-finder-hivepress-customizer.php:503
+msgid "Related Listing Link Text"
+msgstr ""
+
+#: inc/hivepress/class-finder-hivepress-customizer.php:279
+#: inc/hivepress/class-finder-hivepress-customizer.php:533
+msgid "Related Listing Url"
+msgstr ""
+
+#: inc/hivepress/class-finder-hivepress-customizer.php:308
+msgid "Catalog Layout"
+msgstr ""
+
+#: inc/hivepress/class-finder-hivepress-customizer.php:309
+msgid "Select catalog layout variation"
+msgstr ""
+
+#: inc/hivepress/class-finder-hivepress-customizer.php:314
+msgid "Grid"
+msgstr ""
+
+#: inc/hivepress/class-finder-hivepress-customizer.php:315
+msgid "List"
+msgstr ""
+
+#: inc/hivepress/class-finder-hivepress-customizer.php:334
+msgid "Map Api"
+msgstr ""
+
+#: inc/hivepress/class-finder-hivepress-customizer.php:335
+msgid "Enter your maptiler api"
+msgstr ""
+
+#: inc/hivepress/class-finder-hivepress-customizer.php:376
+msgid "My Account Styles"
+msgstr ""
+
+#: inc/hivepress/class-finder-hivepress-customizer.php:377
+msgid "Select my account post version"
+msgstr ""
+
+#: inc/hivepress/class-finder-hivepress-customizer.php:401
+msgid "Vendor Single"
+msgstr ""
+
+#: inc/hivepress/class-finder-hivepress-customizer.php:417
+msgid "Vendor Single Style"
+msgstr ""
+
+#: inc/hivepress/class-finder-hivepress-customizer.php:444
+msgid "Single vendor related listings"
+msgstr ""
+
+#: inc/hivepress/class-finder-hivepress-customizer.php:566
+msgid "Vendor Archive"
+msgstr ""
+
+#: inc/hivepress/class-finder-hivepress.php:154
+msgid "Listing Sidebar"
+msgstr ""
+
+#: inc/hivepress/finder-hivepress-functions.php:478
+msgid "No Attributes Found"
+msgstr ""
+
+#: inc/hivepress/template-functions/listing-filters.php:35
+#: inc/hivepress/template-functions/listings.php:206
+msgid "Categories"
+msgstr ""
+
+#: inc/hivepress/template-functions/listing-filters.php:285
+msgid "Select"
+msgstr ""
+
+#: inc/hivepress/template-functions/listing-filters.php:562
+msgid "To date"
+msgstr ""
+
+#: inc/hivepress/template-functions/listing-single.php:322
+#: inc/hivepress/template-functions/listings.php:942
+#: templates/hivepress/listings-edit/content/myaccount-car-finder.php:28
+#: templates/hivepress/listings-edit/content/myaccount-real-estate.php:30
+msgid "Verified"
+msgstr ""
+
+#: inc/hivepress/template-functions/listing-single.php:343
+#: inc/hivepress/template-functions/listing-single.php:1970
+#: inc/hivepress/template-functions/listing-single.php:2025
+#: inc/hivepress/template-functions/listings.php:925
+#: inc/wpjm/finder-wpjm-template-functions.php:95
+#: inc/wpjm/template-functions/single-job-listing.php:159
+#: job_manager/content-job_listing.php:28 job_manager/job-dashboard.php:74
+#: templates/demos/city-guide/loop-post-sticky.php:17
+#: templates/demos/job-board/loop-post-sticky.php:16
+#: templates/demos/real-estate/loop-post-sticky.php:19
+#: templates/hivepress/listings-edit/content/myaccount-car-finder.php:31
+#: templates/hivepress/listings-edit/content/myaccount-real-estate.php:33
+#: templates/posts/loop-post-default.php:22
+msgid "Featured"
+msgstr ""
+
+#: inc/hivepress/template-functions/listing-single.php:359
+msgid "Published:"
+msgstr ""
+
+#: inc/hivepress/template-functions/listing-single.php:450
+msgid "Submit a review"
+msgstr ""
+
+#: inc/hivepress/template-functions/listing-single.php:471
+msgid "Leave a review"
+msgstr ""
+
+#: inc/hivepress/template-functions/listing-single.php:472
+#: inc/hivepress/template-functions/myaccount.php:215
+msgid "Close"
+msgstr ""
+
+#: inc/hivepress/template-functions/listing-single.php:489
+msgid "Add review"
+msgstr ""
+
+#: inc/hivepress/template-functions/listing-single.php:627
+#: inc/hivepress/template-functions/listing-single.php:691
+msgid "Message"
+msgstr ""
+
+#: inc/hivepress/template-functions/listing-single.php:640
+#: inc/hivepress/template-functions/listing-single.php:704
+#: inc/hivepress/template-functions/listing-single.php:1715
+#: inc/hivepress/template-functions/vendor-single.php:360
+#: inc/hivepress/template-functions/vendor-single.php:412
+#: inc/hivepress/template-functions/vendors.php:63
+msgid "Send message"
+msgstr ""
+
+#: inc/hivepress/template-functions/listing-single.php:742
+msgid "Reply to listing"
+msgstr ""
+
+#: inc/hivepress/template-functions/listing-single.php:773
+#: inc/hivepress/template-functions/listing-single.php:839
+msgid "Enter Your Description"
+msgstr ""
+
+#: inc/hivepress/template-functions/listing-single.php:779
+msgid "Report listing"
+msgstr ""
+
+#: inc/hivepress/template-functions/listing-single.php:793
+msgid "Report Listing"
+msgstr ""
+
+#: inc/hivepress/template-functions/listing-single.php:809
+msgid "Report to listing"
+msgstr ""
+
+#: inc/hivepress/template-functions/listing-single.php:828
+msgid "Your claim has been submitted."
+msgstr ""
+
+#: inc/hivepress/template-functions/listing-single.php:853
+msgid "Claim listing"
+msgstr ""
+
+#: inc/hivepress/template-functions/listing-single.php:866
+#: inc/hivepress/template-functions/listing-single.php:884
+msgid "Claim Listing"
+msgstr ""
+
+#: inc/hivepress/template-functions/listing-single.php:1534
+#: inc/hivepress/template-functions/listing-single.php:1546
+msgid "Image"
+msgstr ""
+
+#: inc/hivepress/template-functions/listing-single.php:1578
+msgid "Published: "
+msgstr ""
+
+#: inc/hivepress/template-functions/listing-single.php:1731
+msgid "Write your message"
+msgstr ""
+
+#: inc/hivepress/template-functions/listing-single.php:1744
+msgid "Submit"
+msgstr ""
+
+#: inc/hivepress/template-functions/listing-single.php:1979
+#: inc/hivepress/template-functions/listing-single.php:2034
+#: inc/hivepress/template-functions/listings.php:945
+msgid "Certified"
+msgstr ""
+
+#: inc/hivepress/template-functions/listing-single.php:2120
+msgid "Gallery"
+msgstr ""
+
+#: inc/hivepress/template-functions/listing-single.php:2139
+msgid "Reviews"
+msgstr ""
+
+#: inc/hivepress/template-functions/listing-single.php:2469
+msgid "Average rating"
+msgstr ""
+
+#: inc/hivepress/template-functions/listing-single.php:2481
+#. translators: %s rating
+msgid "%s rating"
+msgstr ""
+
+#: inc/hivepress/template-functions/listing-single.php:3076
+msgid "Opening Hours"
+msgstr ""
+
+#: inc/hivepress/template-functions/listing-single.php:3117
+msgid "Social Links"
+msgstr ""
+
+#: inc/hivepress/template-functions/listings.php:120
+#: inc/hivepress/template-functions/listings.php:212
+msgid "Filters"
+msgstr ""
+
+#: inc/hivepress/template-functions/listings.php:182
+msgid "Search..."
+msgstr ""
+
+#: inc/hivepress/template-functions/listings.php:185
+#: templates/404/404-v3.php:76
+msgid "Search"
+msgstr ""
+
+#: inc/hivepress/template-functions/listings.php:544
+#: inc/hivepress/template-functions/listings.php:557
+msgid "Map view"
+msgstr ""
+
+#: inc/hivepress/template-functions/listings.php:599
+msgid "Grid view"
+msgstr ""
+
+#: inc/hivepress/template-functions/listings.php:599
+msgid "List view"
+msgstr ""
+
+#: inc/hivepress/template-functions/listings.php:645
+#: inc/hivepress/template-functions/listings.php:674
+#: inc/hivepress/template-functions/listings.php:720
+#: inc/wpjm/finder-wpjm-template-functions.php:124
+msgid "Sort by:"
+msgstr ""
+
+#: inc/hivepress/template-functions/listings.php:1062
+msgid "All Categories"
+msgstr ""
+
+#: inc/hivepress/template-functions/myaccount.php:81
+msgid "Menu"
+msgstr ""
+
+#: inc/hivepress/template-functions/myaccount.php:148
+msgid "Account Menu"
+msgstr ""
+
+#: inc/hivepress/template-functions/vendor-single.php:188
+msgid "Direct message"
+msgstr ""
+
+#: inc/hivepress/template-functions/vendor-single.php:351
+#: inc/hivepress/template-functions/vendors.php:54
+msgid "Type your message here"
+msgstr ""
+
+#: inc/ocdi/class-finder-ocdi.php:296
+#. translators: %1$s - The demo name. %2$s - Minutes.
+msgid "This demo will import %1$s. It may take %2$s"
+msgstr ""
+
+#: inc/ocdi/class-finder-ocdi.php:297
+msgid ""
+"Menus, Widgets and Settings will not be imported. Content imported already "
+"will not be imported."
+msgstr ""
+
+#: inc/ocdi/class-finder-ocdi.php:298
+msgid ""
+"Alternatively, you can import this template directly into your page via "
+"Edit with Elementor."
+msgstr ""
+
+#: inc/ocdi/class-finder-ocdi.php:330
+msgid "Job Board"
+msgstr ""
+
+#: inc/template-functions/footer.php:283 inc/template-functions/footer.php:288
+#: inc/template-functions/footer.php:447 inc/template-functions/footer.php:505
+#. translators: footer copy  rights
+msgid "Finder mobile app"
+msgstr ""
+
+#: inc/template-functions/footer.php:354
+msgid ""
+"Find everything you need for buying, selling & renting property in our new "
+"Finder App!"
+msgstr ""
+
+#: inc/template-functions/global.php:228 inc/template-functions/global.php:231
+#. translators: 1: Site Title Markup, 2: Site Tagline Markup
+msgid "Breadcrumb"
+msgstr ""
+
+#: inc/template-functions/global.php:298
+msgid "Search Results for \"%s\""
+msgstr ""
+
+#: inc/template-functions/header.php:125
+msgid "Toggle navigation"
+msgstr ""
+
+#: inc/template-functions/header.php:433 inc/template-functions/header.php:470
+msgid "Choose Demo"
+msgstr ""
+
+#: inc/template-functions/header.php:638 inc/template-functions/header.php:747
+msgid "Illustartion"
+msgstr ""
+
+#: inc/template-functions/header.php:645
+msgid "Don't have an account?"
+msgstr ""
+
+#: inc/template-functions/header.php:650
+msgid "Sign up here"
+msgstr ""
+
+#: inc/template-functions/header.php:689
+msgid "Sign up"
+msgstr ""
+
+#: inc/template-functions/header.php:696
+msgid "Enter your full name"
+msgstr ""
+
+#: inc/template-functions/header.php:705
+msgid "Enter your password min 8 char"
+msgstr ""
+
+#: inc/template-functions/header.php:753
+msgid "Already have an account?"
+msgstr ""
+
+#: inc/template-functions/header.php:817
+msgid "Return to Sign in"
+msgstr ""
+
+#: inc/template-functions/loop-post.php:23
+#: inc/template-functions/single-post.php:69
+msgid ", "
+msgstr ""
+
+#: inc/template-functions/loop-post.php:336
+#: inc/template-functions/single-post.php:851
+msgid "Leave a comment"
+msgstr ""
+
+#: inc/template-functions/loop-post.php:413
+#: inc/template-functions/single-post.php:711
+#: templates/demos/city-guide/sidebar-blog.php:16
+msgid "Sidebar"
+msgstr ""
+
+#: inc/template-functions/page.php:166
+msgid "Top"
+msgstr ""
+
+#: inc/template-functions/single-post.php:165
+msgid "Less than a minute to read"
+msgstr ""
+
+#: inc/template-functions/single-post.php:219
+#: inc/template-functions/single-post.php:910
+msgid "Tags:"
+msgstr ""
+
+#: inc/template-functions/single-post.php:283
+msgid "Share :"
+msgstr ""
+
+#: inc/template-functions/single-post.php:293
+#. translators: %s - name of the social sharing service
+msgid "Share in %s"
+msgstr ""
+
+#: inc/template-functions/single-post.php:385
+msgid "author"
+msgstr ""
+
+#: inc/template-functions/single-post.php:389
+msgid "Author"
+msgstr ""
+
+#: inc/template-functions/single-post.php:461
+msgid "Name"
+msgstr ""
+
+#: inc/template-functions/single-post.php:461
+msgid "First name"
+msgstr ""
+
+#: inc/template-functions/single-post.php:463
+msgid "Email"
+msgstr ""
+
+#: inc/template-functions/single-post.php:465
+msgid "Save my name and email in this browser for the next time I comment."
+msgstr ""
+
+#: inc/template-functions/single-post.php:468
+msgid "https://"
+msgstr ""
+
+#: inc/template-functions/single-post.php:471
+msgid "Leave your comment"
+msgstr ""
+
+#: inc/template-functions/single-post.php:474
+msgid "Your Comment"
+msgstr ""
+
+#: inc/template-functions/single-post.php:477
+msgid "Post comment"
+msgstr ""
+
+#: inc/template-functions/single-post.php:484
+msgid "Your email address will not be published."
+msgstr ""
+
+#: inc/template-functions/single-post.php:486
+#. translators: related to comment form; phrase follows by red mark
+msgid "Required fields are marked"
+msgstr ""
+
+#: inc/template-functions/single-post.php:966
+msgid "cover-image"
+msgstr ""
+
+#: inc/template-functions/single-post.php:1077
+msgid ""
+"This content is password protected. To view it please enter your password "
+"below:"
+msgstr ""
+
+#: inc/template-functions/single-post.php:1079
+msgid "Password:"
+msgstr ""
+
+#: inc/template-functions/single-post.php:1161
+msgid "Prev"
+msgstr ""
+
+#: inc/template-functions/single-post.php:1174
+msgid "Next"
+msgstr ""
+
+#: inc/wpforms/integration.php:114
+msgid "Enable Form Row"
+msgstr ""
+
+#: inc/wpforms/integration.php:128
+msgid "Enable Light Version"
+msgstr ""
+
+#: inc/wpjm/class-finder-wpjm-customizer.php:40
+msgid "Job Manager"
+msgstr ""
+
+#: inc/wpjm/class-finder-wpjm-customizer.php:41
+msgid "Option for jobmanager single job"
+msgstr ""
+
+#: inc/wpjm/class-finder-wpjm-customizer.php:61
+msgid "Job Listing"
+msgstr ""
+
+#: inc/wpjm/class-finder-wpjm-customizer.php:103
+msgid "Jobmanager Single"
+msgstr ""
+
+#: inc/wpjm/class-finder-wpjm-customizer.php:128
+msgid "Jobmanager single related posts"
+msgstr ""
+
+#: inc/wpjm/class-finder-wpjm-customizer.php:138
+#: inc/wpjm/template-functions/single-job-listing.php:300
+msgid "You may be interested in"
+msgstr ""
+
+#: inc/wpjm/class-finder-wpjm-customizer.php:146
+msgid "Related Job Text"
+msgstr ""
+
+#: inc/wpjm/class-finder-wpjm-customizer.php:175
+msgid "Related Job Link Text"
+msgstr ""
+
+#: inc/wpjm/class-finder-wpjm-customizer.php:204
+msgid "Related Job Url"
+msgstr ""
+
+#: inc/wpjm/class-finder-wpjm-customizer.php:233
+msgid "Single Layout"
+msgstr ""
+
+#: inc/wpjm/class-finder-wpjm-customizer.php:234
+msgid "Select sidebar layout"
+msgstr ""
+
+#: inc/wpjm/class-finder-wpjm.php:114
+msgid "Job Archive Sidebar"
+msgstr ""
+
+#: inc/wpjm/class-finder-wpjm.php:129
+msgid "Job Single Sidebar"
+msgstr ""
+
+#: inc/wpjm/finder-wpjm-template-functions.php:69
+msgid "0 jobs"
+msgstr ""
+
+#: inc/wpjm/finder-wpjm-template-functions.php:96
+msgid "New Job"
+msgstr ""
+
+#: inc/wpjm/finder-wpjm-template-functions.php:97
+msgid "Menu Order"
+msgstr ""
+
+#: inc/wpjm/finder-wpjm-template-functions.php:98
+msgid "Name: Ascending"
+msgstr ""
+
+#: inc/wpjm/finder-wpjm-template-functions.php:99
+msgid "Name: Descending"
+msgstr ""
+
+#: inc/wpjm/finder-wpjm-template-functions.php:107
+msgid "Relevance"
+msgstr ""
+
+#: inc/wpjm/finder-wpjm-template-functions.php:293
+#: inc/wpjm/finder-wpjm-template-functions.php:351
+#: job_manager/job-filters.php:34 job_manager/job-filters.php:70
+msgid "Find jobs"
+msgstr ""
+
+#: inc/wpjm/finder-wpjm-template-functions.php:307
+msgid "Keyword or title..."
+msgstr ""
+
+#: inc/wpjm/finder-wpjm-template-functions.php:317
+msgid "City, state, or zip..."
+msgstr ""
+
+#: inc/wpjm/finder-wpjm-template-functions.php:333
+msgid "Category"
+msgstr ""
+
+#: inc/wpjm/finder-wpjm-template-functions.php:366
+msgid "Publication date"
+msgstr ""
+
+#: inc/wpjm/finder-wpjm-template-functions.php:387
+msgid "Job type"
+msgstr ""
+
+#: inc/wpjm/finder-wpjm-template-functions.php:409
+msgid "Company"
+msgstr ""
+
+#: inc/wpjm/template-functions/single-job-listing.php:178
+msgid "This position has been filled"
+msgstr ""
+
+#: inc/wpjm/template-functions/single-job-listing.php:180
+msgid "Applications have closed"
+msgstr ""
+
+#: inc/wpjm/template-functions/single-job-listing.php:258
+msgid "Apply for this position"
+msgstr ""
+
+#: inc/wpjm/template-functions/single-job-listing.php:441
+msgid "Zapier Logo"
+msgstr ""
+
+#: job_manager/content-no-jobs-found.php:23
+msgid "There are no listings matching your search."
+msgstr ""
+
+#: job_manager/content-no-jobs-found.php:25
+msgid "There are currently no vacancies"
+msgstr ""
+
+#: job_manager/content-single-job_listing.php:32
+msgid "This listing has expired."
+msgstr ""
+
+#: job_manager/job-application-email.php:21
+#. translators: %s is the job title.
+msgid "Please, send your CV marked “%s” in the subject via e-mail:"
+msgstr ""
+
+#: job_manager/job-application-url.php:16
+msgid "To apply for this job please visit:"
+msgstr ""
+
+#: job_manager/job-dashboard.php:53 job_manager/job-submit.php:55
+msgid "Sign out"
+msgstr ""
+
+#: job_manager/job-dashboard.php:58
+msgid "You do not have any active listings."
+msgstr ""
+
+#: job_manager/job-filters.php:45
+msgid "Keywords"
+msgstr ""
+
+#: job_manager/job-filters.php:54
+#: templates/hivepress/listings/listing-filters.php:83
+msgid "Location"
+msgstr ""
+
+#: job_manager/job-filters.php:105
+msgid "Any category"
+msgstr ""
+
+#: job_manager/job-filters.php:127
+msgid ""
+"Your browser does not support JavaScript, or it is disabled. JavaScript "
+"must be enabled in order to view listings."
+msgstr ""
+
+#: job_manager/job-preview.php:33
+msgid "Preview"
+msgstr ""
+
+#: job_manager/job-preview.php:35
+msgid "Submit Job"
+msgstr ""
+
+#: job_manager/job-preview.php:36
+msgid "Edit Job"
+msgstr ""
+
+#: job_manager/job-preview.php:48
+msgid "Company Logo"
+msgstr ""
+
+#: job_manager/job-submit.php:61
+#. translators: %s: edit job
+msgid "You are editing an existing job. %s"
+msgstr ""
+
+#: job_manager/job-submit.php:61
+msgid "Create A New Job"
+msgstr ""
+
+#: job_manager/job-submit.php:69
+msgid "Job Details"
+msgstr ""
+
+#: job_manager/job-submit.php:78 job_manager/job-submit.php:114
+#: job_manager/job-submit.php:172 job_manager/job-submit.php:190
+#: job_manager/job-submit.php:226 job_manager/job-submit.php:251
+#: job_manager/job-submit.php:329
+msgid "(optional)"
+msgstr ""
+
+#: job_manager/job-submit.php:131
+msgid "No results match"
+msgstr ""
+
+#: job_manager/job-submit.php:131
+msgid "Select Some Options"
+msgstr ""
+
+#: job_manager/job-submit.php:215
+msgid "Company Details"
+msgstr ""
+
+#: job_manager/job-submit.php:322
+#. translators: 1: number of comments, 2: post title
+msgid "Maximum file size: %s."
+msgstr ""
+
+#: job_manager/job-submit.php:365
+msgid "Save Draft"
+msgstr ""
+
+#: job_manager/job-submitted.php:31
+#. translators: %1$s is the job listing post type name, %2$s is the job listing
+#. URL.
+msgid ""
+"%1$s listed successfully. To view your listing <a href=\"%2$s\">click "
+"here</a>."
+msgstr ""
+
+#: job_manager/job-submitted.php:41
+#. translators: Placeholder %s is the job listing post type name.
+msgid "%s submitted successfully. Your listing will be visible once approved."
+msgstr ""
+
+#: searchform.php:25 templates/demos/car-finder/blog-control-bar.php:50
+#: templates/demos/real-estate/blog-control-bar.php:18
+msgid "Search articles by keywords..."
+msgstr ""
+
+#: templates/404/404-v3.php:12
+msgid "homepage"
+msgstr ""
+
+#: templates/404/404-v3.php:47
+#. translators: %s: search term
+msgid "Page Not Found. %s"
+msgstr ""
+
+#: templates/404/404-v3.php:63
+#. translators: %s: search term
+msgid ""
+"Sorry, we can’t find the page you are looking for. We suggest you go to "
+"homepage while we are fixing the problem. %s"
+msgstr ""
+
+#: templates/404/404-v3.php:74
+msgid "Your search keywords..."
+msgstr ""
+
+#: templates/demos/car-finder/blog-control-bar.php:17
+#: templates/demos/real-estate/blog-control-bar.php:25
+msgid "Categories:"
+msgstr ""
+
+#: templates/demos/car-finder/blog-control-bar.php:24
+#: templates/demos/real-estate/blog-control-bar.php:32
+msgid "All"
+msgstr ""
+
+#: templates/demos/car-finder/loop-post.php:15
+#: templates/demos/city-guide/loop-post.php:17
+#: templates/demos/job-board/loop-post.php:18
+#: templates/demos/real-estate/loop-post.php:15
+msgid "New"
+msgstr ""
+
+#: templates/demos/real-estate/loop-post-sticky.php:19
+msgid "Post image"
+msgstr ""
+
+#: templates/hivepress/listings/content-none.php:12
+msgid "Listings Not Found"
+msgstr ""
+
+#: templates/hivepress/listings/listing-filters.php:88
+msgid "Enter the Location"
+msgstr ""
+
+#: templates/hivepress/listings/listing-filters.php:98
+msgid "Filter"
+msgstr ""
+
+#: templates/hivepress/listings/listing-filters.php:99
+msgid "Reset filters"
+msgstr ""
+
+#: templates/hivepress/vendors/archive-vendor-content.php:33
+#. translators: %s: date.
+msgid "Member since %s"
+msgstr ""
+
+#: templates/single-post/single-post-default.php:46
+msgid "Share:"
+msgstr ""
+
+#: templates/single-post/single-post-default.php:47
+msgid "Share with LinkedIn "
+msgstr ""
+
+#: templates/single-post/single-post-default.php:47
+msgid "Share with LinkedIn"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Finder"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://finder.madrasthemes.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Finder is a multipurpose Directory & Listing WordPress theme that covers "
+"Real Estate, Car Finder, Job Board and City Guide niches."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "MadrasThemes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://madrasthemes.com/"
+msgstr ""
+
+#: comments.php:43
+#. translators: 1: number of comments, 2: post title
+msgctxt "comments title"
+msgid "%1$s Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/template-functions/single-post.php:856
+#. translators: 1: number of comments, 2: post title
+msgctxt "comments title"
+msgid "%1$s comment"
+msgid_plural "%1$s comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/classes/class-tgm-plugin-activation.php:1218
+#: inc/classes/class-tgm-plugin-activation.php:3064
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2458
+#. translators: 1: install status, 2: update status
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2504
+#. translators: 1: number of plugins.
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2598
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:219
+#: inc/customizer/class-finder-customizer.php:483
+#: inc/customizer/class-finder-customizer.php:662
+#: inc/customizer/class-finder-customizer.php:717
+#: inc/customizer/class-finder-customizer.php:1148
+#: inc/customizer/class-finder-customizer.php:1873
+msgctxt "button"
+msgid "Primary"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:220
+#: inc/customizer/class-finder-customizer.php:484
+#: inc/customizer/class-finder-customizer.php:663
+#: inc/customizer/class-finder-customizer.php:1149
+#: inc/customizer/class-finder-customizer.php:1879
+msgctxt "button"
+msgid "Accent"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:221
+#: inc/customizer/class-finder-customizer.php:485
+#: inc/customizer/class-finder-customizer.php:664
+#: inc/customizer/class-finder-customizer.php:718
+#: inc/customizer/class-finder-customizer.php:1150
+#: inc/customizer/class-finder-customizer.php:1874
+msgctxt "button"
+msgid "Success"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:222
+#: inc/customizer/class-finder-customizer.php:486
+#: inc/customizer/class-finder-customizer.php:665
+#: inc/customizer/class-finder-customizer.php:719
+#: inc/customizer/class-finder-customizer.php:1151
+#: inc/customizer/class-finder-customizer.php:1875
+msgctxt "button"
+msgid "Danger"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:223
+#: inc/customizer/class-finder-customizer.php:487
+#: inc/customizer/class-finder-customizer.php:666
+#: inc/customizer/class-finder-customizer.php:720
+#: inc/customizer/class-finder-customizer.php:1152
+#: inc/customizer/class-finder-customizer.php:1876
+msgctxt "button"
+msgid "Warning"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:224
+#: inc/customizer/class-finder-customizer.php:488
+#: inc/customizer/class-finder-customizer.php:667
+#: inc/customizer/class-finder-customizer.php:721
+#: inc/customizer/class-finder-customizer.php:1153
+#: inc/customizer/class-finder-customizer.php:1877
+msgctxt "button"
+msgid "Info"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:225
+#: inc/customizer/class-finder-customizer.php:489
+#: inc/customizer/class-finder-customizer.php:668
+#: inc/customizer/class-finder-customizer.php:722
+#: inc/customizer/class-finder-customizer.php:1154
+#: inc/customizer/class-finder-customizer.php:1878
+msgctxt "button"
+msgid "Dark"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:226
+#: inc/customizer/class-finder-customizer.php:723
+#: inc/customizer/class-finder-customizer.php:1155
+msgctxt "button"
+msgid "Gradient"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:227
+#: inc/customizer/class-finder-customizer.php:490
+#: inc/customizer/class-finder-customizer.php:669
+#: inc/customizer/class-finder-customizer.php:724
+#: inc/customizer/class-finder-customizer.php:1156
+#: inc/customizer/class-finder-customizer.php:1880
+msgctxt "button"
+msgid "Link"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:1108
+msgctxt "title"
+msgid "Choose Demo"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:1280
+msgctxt "position"
+msgid "Start"
+msgstr ""
+
+#: inc/customizer/class-finder-customizer.php:1281
+msgctxt "position"
+msgid "End"
+msgstr ""
+
+#: inc/hivepress/template-functions/listing-single.php:426
+#. translators: 1: number of comments, 2: post title
+msgctxt "review count"
+msgid "%2$s ( %1$s Review )"
+msgid_plural "%2$s ( %1$s Reviews )"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/hivepress/template-functions/listing-single.php:572
+#: inc/hivepress/template-functions/listing-single.php:1665
+#. translators: 1: number of reviews, 2: review count
+msgctxt "review count"
+msgid "(%1$s Review)"
+msgid_plural "(%1$s Reviews)"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/hivepress/template-functions/listing-single.php:2181
+#: inc/hivepress/template-functions/listing-single.php:2261
+#: inc/hivepress/template-functions/listing-single.php:2290
+#: inc/hivepress/template-functions/listing-single.php:2386
+#. translators: 1: number of comments, 2: post title
+msgctxt "review count"
+msgid " ( %1$s Review )"
+msgid_plural " ( %1$s Reviews )"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/hivepress/template-functions/listing-single.php:2529
+#: inc/hivepress/template-functions/vendor-single.php:146
+#. translators: 1: number of reviews, 2: review count
+msgctxt "review count"
+msgid "%1$s Review"
+msgid_plural "%1$s Reviews"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/hivepress/template-functions/listings.php:534
+#. translators: 1: number of offers, 2: post title
+msgctxt "results title"
+msgid "%1$s offer"
+msgid_plural "%1$s offers"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/hivepress/template-functions/listings.php:690
+#. translators: 1: number of offers, 2: post title
+msgctxt "results title"
+msgid "%1$s result"
+msgid_plural "%1$s results"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/template-functions/global.php:244
+msgctxt "breadcrumb"
+msgid "Home"
+msgstr ""
+
+#: inc/template-functions/single-post.php:161
+#. translators: 1: number of minutes, 2: minutes to read
+msgctxt "minutes to read"
+msgid "%1$s min read"
+msgid_plural "%1$s mins read"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/template-functions/single-post.php:1056
+msgctxt "placeholder"
+msgid "Search …"
+msgstr ""
+
+#: inc/template-functions/single-post.php:1058
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: inc/wpjm/finder-wpjm-template-functions.php:74
+#. translators: 1: number of jobs, 2: post title
+msgctxt "jobs title"
+msgid "%1$s job"
+msgid_plural "%1$s jobs"
+msgstr[0] ""
+msgstr[1] ""
+
+#: templates/404/404-v4.php:67
+msgctxt "front-end"
+msgid "404"
+msgstr ""
+
+#: templates/404/404-v1.php:69 templates/404/404-v2.php:64
+#: templates/404/404-v4.php:78
+msgctxt "front-end"
+msgid "Page Not Found."
+msgstr ""
+
+#: templates/404/404-v1.php:77
+msgctxt "front-end"
+msgid ""
+"\n"
+"                                            Sorry, we can’t find the page "
+"you are looking for. We suggest you go to homepage while we are fixing the "
+"problem."
+msgstr ""
+
+#: templates/404/404-v1.php:143
+msgctxt "front-end"
+msgid "Page Not Found"
+msgstr ""
+
+#: templates/404/404-v2.php:76
+msgctxt "front-end"
+msgid "Oops"
+msgstr ""
+
+#: templates/404/404-v2.php:94
+msgctxt "front-end"
+msgid ""
+"\n"
+"                                    Sorry, we can’t find the page you are "
+"looking for. We suggest you go to homepage while we are fixing the problem."
+msgstr ""
+
+#: templates/404/404-v3.php:26
+msgctxt "front-end"
+msgid "Whoops"
+msgstr ""
+
+#: templates/404/404-v4.php:81
+msgctxt "front-end"
+msgid ""
+"Sorry, we can’t find the page you are looking for. We suggest you go to "
+"homepage while we are fixing the problem."
+msgstr ""
